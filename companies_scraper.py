@@ -90,15 +90,14 @@ def csv_merger(path):
 
 if __name__ == "__main__":
     # Automate the whole scrapping from page 1 to page 70
-    # min_page_no = 1
-    # max_page_no = 70
+    min_page_no = 1
+    max_page_no = 70
 
-    # for pg_number in range(min_page_no, max_page_no+1):
-    #     pg_url = f'https://www.glassdoor.co.in/Explore/browse-companies.htm?overall_rating_low=3.5&page={pg_number}&locId=1079&locType=M&locName=Indore&sector=10013&filterType=RATING_OVERALL'
-    #     csv_maker(dataframe=company_extractor(webpage=page_authentication(url=pg_url)), filename = 'page'+str(pg_number))
+    for pg_number in range(min_page_no, max_page_no+1):
+        pg_url = f'https://www.glassdoor.co.in/Explore/browse-companies.htm?overall_rating_low=3.5&page={pg_number}&locId=1079&locType=M&locName=Indore&sector=10013&filterType=RATING_OVERALL'
+        csv_maker(dataframe=company_extractor(webpage=page_authentication(url=pg_url)), filename = 'page'+str(pg_number))
 
     # merge all the csv files into one file
-
     filepath = 'Companies-csv-files/'
     csv_merger(path=filepath)
     
