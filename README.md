@@ -5,6 +5,7 @@ This is a Python web scraping project that allows you to extract information abo
 # Prerequisites
 
 Before running the project, make sure you have the following installed:
+
 •	Python (version 3.6 or higher)
 •	`requests` library
 •	`BeautifulSoup` library
