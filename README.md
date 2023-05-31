@@ -6,10 +6,10 @@ This is a Python web scraping project that allows you to extract information abo
 
 Before running the project, make sure you have the following installed:
 
-•	Python (version 3.6 or higher)
-•	`requests` library
-•	`BeautifulSoup` library
-•	`pandas` library
+-	 Python (version 3.6 or higher)
+-	`requests` library
+-	`BeautifulSoup` library
+-	`pandas` library
 
 # Installation
 1.	Clone this repository to your local machine or download the ZIP file.
