@@ -2,17 +2,19 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import glob
+from urllib.request import urlopen, Request
 import os
 
 
 def page_authentication(url):
-    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-    response = requests.get(url, headers=headers)
-    if response.status_code < 200 or response.status_code > 299:
+    # headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Windows Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+    header = {'User-Agent': 'Mozilla/5.0'}
+    response = Request(url, headers=header)
+    page = urlopen(response)
+    if page is None:
         raise Exception(f'Failed to load the page {url}')
-    page_content = response.text
-    webpage =  BeautifulSoup(page_content, 'html.parser')
-    return webpage
+    webpage =  BeautifulSoup(page, 'html.parser')
+    return webpage, response
 
 
 def company_extractor(webpage):
@@ -73,6 +75,12 @@ def company_extractor(webpage):
 
 
 def csv_maker(dataframe, filename):
+    path = os.getcwd()
+    csvdirectory = os.path.join(path, 'Companies-csv-files')
+    
+    if not os.path.exists('Companies-csv-files'):
+        os.mkdir(csvdirectory)
+
     dataframe.to_csv(f"Companies-csv-files\{filename}.csv", index=None)
 
 
@@ -86,20 +94,6 @@ def csv_merger(path):
     final_dataframe = pd.concat(df_lst, axis=0, ignore_index=True)
     final_dataframe.to_csv('CompaniesFinal.csv', index=None)
 
-    
-
-if __name__ == "__main__":
-    # Automate the whole scrapping from page 1 to page 70
-    min_page_no = 1
-    max_page_no = 70
-
-    for pg_number in range(min_page_no, max_page_no+1):
-        pg_url = f'https://www.glassdoor.co.in/Explore/browse-companies.htm?overall_rating_low=3.5&page={pg_number}&locId=1079&locType=M&locName=Indore&sector=10013&filterType=RATING_OVERALL'
-        csv_maker(dataframe=company_extractor(webpage=page_authentication(url=pg_url)), filename = 'page'+str(pg_number))
-
-    # merge all the csv files into one file
-    filepath = 'Companies-csv-files/'
-    csv_merger(path=filepath)
     
     
 

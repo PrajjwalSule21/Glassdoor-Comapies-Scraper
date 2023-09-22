@@ -1,600 +1,611 @@
 Company,Rating,Location,Employee_Size,Industry,Review
 Tata Consultancy Services,3.9,Indore,10000+,Software Development,1.3L
-Amazon,4.1,Indore,10000+,Internet & Web Services,1.7L
-TaskUs,4.6,Indore,10000+,Information Technology Support Services,13.9T
-DXC Technology,3.6,Indore,10000+,Information Technology Support Services,23.4T
-Capgemini,4.0,Indore,10000+,Enterprise Software & Network Solutions,68.9T
-Wipro,3.8,Indore,10000+,Information Technology Support Services,53.3T
-Cognizant Technology Solutions,3.9,Indore,10000+,Information Technology Support Services,84.9T
-Google,4.4,Indore,10000+,Internet & Web Services,43.6T
-CSC,3.7,Indore,10000+,Information Technology Support Services,6.7T
-IBM,4.2,Indore,10000+,Information Technology Support Services,1L
-HCL Infosystems,4.0,Indore,5001 to 10000,Computer Hardware Development,1.4T
-Bacelor,3.8,Indore,501 to 1000,Information Technology Support Services,83
-Xoriant,3.8,Indore,5001 to 10000,Information Technology Support Services,1.7T
-Infogain,4.0,Indore,5001 to 10000,Information Technology Support Services,2.5T
-Freshworks,3.9,Indore,5001 to 10000,Enterprise Software & Network Solutions,1.7T
-SelfMade,4.4,Indore,1 to 50,Internet & Web Services,569
-LinkedIn,4.4,Indore,10000+,Internet & Web Services,6.4T
-Systematix Infotech,4.0,Indore,201 to 500,Information Technology Support Services,98
-Galaxy Weblinks,4.1,Indore,201 to 500,Information Technology Support Services,96
-Cybage Software,3.9,Indore,5001 to 10000,Information Technology Support Services,3.6T
-Snapdeal,4.3,Indore,501 to 1000,Internet & Web Services,1.6T
-NTT DATA,3.9,Indore,10000+,Information Technology Support Services,13.5T
-PhonePe,4.2,Indore,1001 to 5000,Internet & Web Services,717
-BA Continuum India,4.2,Indore,5001 to 10000,Information Technology Support Services,2.1T
-Einfochips,3.7,Indore,1001 to 5000,Information Technology Support Services,969
-ConsultAdd,4.0,Indore,51 to 200,Information Technology Support Services,298
-Citrix,3.6,Indore,5001 to 10000,Enterprise Software & Network Solutions,4.5T
-Happiest Minds Technologies,4.3,Indore,1001 to 5000,Information Technology Support Services,1.7T
-Info Edge,4.0,Indore,5001 to 10000,Internet & Web Services,1.5T
-ServiceNow,4.5,Indore,10000+,Enterprise Software & Network Solutions,3.8T
-Hewlett Packard Enterprise | HPE,4.2,Indore,10000+,Information Technology Support Services,16.6T
-Vatsal Technosoft,4.4,Indore,1001 to 5000,Information Technology Support Services,450
-CDN Software Solutions,4.0,Indore,201 to 500,Information Technology Support Services,75
-Tata Communications,4.1,Indore,5001 to 10000,"Cable, Internet & Telephone Providers",3.2T
-Thomson Reuters,4.4,Indore,10000+,Enterprise Software & Network Solutions,14.8T
-BestPeers Infosystem,4.2,Indore,51 to 200,Information Technology Support Services,59
-Daffodil Software,4.0,Indore,501 to 1000,Information Technology Support Services,527
-Ingram Micro,3.9,Indore,10000+,Computer Hardware Development,3.4T
+Amazon,4.1,Indore,10000+,Internet & Web Services,1.8L
+TaskUs,4.5,Indore,10000+,Information Technology Support Services,14.8T
+DXC Technology,3.6,Indore,10000+,Information Technology Support Services,24.5T
+Capgemini,4.0,Indore,10000+,Enterprise Software & Network Solutions,72.7T
+Cognizant Technology Solutions,3.8,Indore,10000+,Information Technology Support Services,87.5T
+Google,4.4,Indore,10000+,Internet & Web Services,47.3T
+IBM,4.1,Indore,10000+,Information Technology Support Services,1.1L
+YASH Technologies,3.8,Indore,5001 to 10000,Information Technology Support Services,2T
+Impetus Technologies,4.1,Indore,1001 to 5000,Information Technology Support Services,1.2T
+Cybage Software,4.0,Indore,5001 to 10000,Information Technology Support Services,3.7T
+PhonePe,4.1,Indore,1001 to 5000,Internet & Web Services,784
+ConsultAdd,3.9,Indore,51 to 200,Information Technology Support Services,319
+Canopus Infosystems,4.5,Indore,51 to 200,Information Technology Support Services,100
+Snapdeal,4.2,Indore,501 to 1000,Internet & Web Services,1.7T
+NTT DATA,3.9,Indore,10000+,Information Technology Support Services,14.6T
+Einfochips,3.5,Indore,1001 to 5000,Information Technology Support Services,1T
+Info Edge,4.0,Indore,5001 to 10000,Internet & Web Services,1.6T
+BA Continuum India,4.2,Indore,5001 to 10000,Information Technology Support Services,2.2T
+Kyndryl,3.8,Indore,10000+,Information Technology Support Services,2.9T
+Calsoft,3.5,Indore,1001 to 5000,Enterprise Software & Network Solutions,604
+Vatsal Technosoft,4.4,Indore,1001 to 5000,Information Technology Support Services,479
+Civica,4.2,Indore,5001 to 10000,Computer Hardware Development,1.2T
+Uber,4.2,Indore,10000+,Internet & Web Services,26.8T
+Indeed,4.2,Indore,10000+,Internet & Web Services,3.8T
 FICO,4.1,Indore,1001 to 5000,Computer Hardware Development,1.5T
-Calsoft,3.6,Indore,1001 to 5000,Enterprise Software & Network Solutions,557
-Indeed,4.3,Indore,10000+,Internet & Web Services,3.6T
-Canopus Infosystems,4.2,Indore,51 to 200,Information Technology Support Services,75
-Ktek Resourcing,4.0,Indore,201 to 500,Information Technology Support Services,90
-Instacart,3.6,Indore,1001 to 5000,Internet & Web Services,6.3T
-ValueMomentum,3.8,Indore,1001 to 5000,Information Technology Support Services,754
-Indra,3.8,Indore,10000+,Information Technology Support Services,5T
-SynergyTop,4.7,Indore,51 to 200,Software Development,75
-Tech Data,3.7,Indore,10000+,Enterprise Software & Network Solutions,1.8T
-Mango IT Solutions,4.1,Indore,51 to 200,Software Development,53
-Birlasoft,3.5,Indore,1001 to 5000,Enterprise Software & Network Solutions,2.9T
-Fujitsu,3.7,Indore,10000+,Enterprise Software & Network Solutions,6T
-ShopKirana E-Trading,3.9,Indore,201 to 500,Internet & Web Services,68
-Collegedunia,3.6,Indore,201 to 500,Internet & Web Services,1.1T
-Gyrix TechnoLabs,4.1,Indore,1 to 50,Information Technology Support Services,44
-Accolite Digital,3.9,Indore,1001 to 5000,Information Technology Support Services,1.3T
-Batchmaster Software,3.6,Indore,201 to 500,Computer Hardware Development,71
-Urban Company,3.8,Indore,1001 to 5000,Internet & Web Services,1.3T
-Kyndryl,3.9,Indore,10000+,Information Technology Support Services,2.3T
-Apex Systems,3.8,Indore,1001 to 5000,Enterprise Software & Network Solutions,3.6T
-IDC Technologies,3.5,Indore,1001 to 5000,Information Technology Support Services,1.1T
-Bacancy,3.8,Indore,501 to 1000,Information Technology Support Services,700
-Innogent Technologies Pvt Ltd,4.9,Indore,51 to 200,Information Technology Support Services,15
-Rahul Infotech,3.9,Indore,51 to 200,Computer Hardware Development,478
-New York Technology Partners,3.9,Indore,51 to 200,Computer Hardware Development,58
-G-P,4.2,Indore,1001 to 5000,Enterprise Software & Network Solutions,254
-Working Not Working,4.2,Indore,1 to 50,Internet & Web Services,188
-Advanz101 Systems,4.7,Indore,51 to 200,Software Development,45
-Compunnel,4.2,Indore,1001 to 5000,Information Technology Support Services,607
-Workday,4.2,Indore,10000+,Enterprise Software & Network Solutions,3.2T
-GlobalLogic,4.0,Indore,10000+,Information Technology Support Services,6.2T
-iEnergizer,4.5,Indore,10000+,Information Technology Support Services,3.9T
-Beyond Key,4.7,Indore,201 to 500,Information Technology Support Services,61
-EdCast,3.8,Indore,51 to 200,Enterprise Software & Network Solutions,200
+Tata Communications,4.1,Indore,5001 to 10000,"Cable, Internet & Telephone Providers",3.3T
+Citrix,3.6,Indore,5001 to 10000,Enterprise Software & Network Solutions,4.6T
+BestPeers Infosystem,4.1,Indore,51 to 200,Information Technology Support Services,66
+Ingram Micro,3.9,Indore,10000+,Computer Hardware Development,3.6T
+Happiest Minds Technologies,4.2,Indore,5001 to 10000,Information Technology Support Services,1.8T
+LTIMindtree,3.6,Indore,10000+,Information Technology Support Services,1.8T
+ServiceNow,4.4,Indore,10000+,Enterprise Software & Network Solutions,4.1T
+Ignatiuz Software,3.6,Indore,51 to 200,Information Technology Support Services,76
+CDN Software Solutions,4.0,Indore,201 to 500,Information Technology Support Services,75
+Hewlett Packard Enterprise | HPE,4.2,Indore,10000+,Information Technology Support Services,17.2T
+Thomson Reuters,4.3,Indore,10000+,Enterprise Software & Network Solutions,15.3T
+Mango IT Solutions,4.1,Indore,51 to 200,Software Development,60
+Ktek Resourcing,3.6,Indore,201 to 500,Information Technology Support Services,95
+Daffodil Software,3.8,Indore,501 to 1000,Information Technology Support Services,540
+ValueMomentum,3.7,Indore,1001 to 5000,Information Technology Support Services,819
+Instacart,3.6,Indore,1001 to 5000,Internet & Web Services,6.6T
+SynergyTop,4.7,Indore,51 to 200,Software Development,77
+Indra,3.8,Indore,10000+,Information Technology Support Services,5.2T
+Tech Data,3.6,Indore,10000+,Enterprise Software & Network Solutions,1.9T
+ShopKirana E-Trading,3.9,Indore,201 to 500,Internet & Web Services,71
+Birlasoft,3.6,Indore,1001 to 5000,Enterprise Software & Network Solutions,3.1T
+Collegedunia,3.5,Indore,201 to 500,Internet & Web Services,1.1T
+Fujitsu,3.7,Indore,10000+,Enterprise Software & Network Solutions,6.2T
+L&T Technology Services,3.5,Indore,10000+,Information Technology Support Services,5.3T
+G-P,4.3,Indore,1001 to 5000,Enterprise Software & Network Solutions,277
+Batchmaster Software,3.6,Indore,201 to 500,Computer Hardware Development,72
+Incedo,3.8,Indore,1001 to 5000,Information Technology Support Services,1.5T
+Accolite Digital,3.8,Indore,1001 to 5000,Information Technology Support Services,1.3T
+Urban Company,3.8,Indore,501 to 1000,Internet & Web Services,1.3T
+Gyrix TechnoLabs,4.1,Indore,1 to 50,Information Technology Support Services,45
+Apex Systems,3.8,Indore,1001 to 5000,Enterprise Software & Network Solutions,3.8T
+Rahul Infotech,3.9,Indore,51 to 200,Computer Hardware Development,486
+Ness Digital Engineering,4.1,Indore,5001 to 10000,Information Technology Support Services,2.3T
+Bacancy,3.9,Indore,501 to 1000,Information Technology Support Services,727
+Innogent Technologies Pvt Ltd,4.9,Indore,51 to 200,Information Technology Support Services,16
+USM Business Systems,3.7,Indore,51 to 200,Computer Hardware Development,152
+iEnergizer,4.7,Indore,10000+,Information Technology Support Services,5.1T
+Beyond Key,4.7,Indore,201 to 500,Information Technology Support Services,70
+New York Technology Partners,4.0,Indore,51 to 200,Computer Hardware Development,59
+Working Not Working,4.0,Indore,1 to 50,Internet & Web Services,198
+Wipro Digital,3.8,Indore,5001 to 10000,Information Technology Support Services,1T
+Advanz101 Systems,4.8,Indore,51 to 200,Software Development,46
+EdCast,4.0,Indore,51 to 200,Enterprise Software & Network Solutions,202
+Workday,4.2,Indore,10000+,Enterprise Software & Network Solutions,3.4T
+Metafic,4.3,Indore,1 to 50,Information Technology Support Services,70
+Technorizen Software Solutions,4.7,Indore,1 to 50,Information Technology Support Services,41
+Compunnel,4.3,Indore,1001 to 5000,Information Technology Support Services,650
+GlobalLogic,3.9,Indore,10000+,Information Technology Support Services,6.6T
+TATA ELXSI,4.1,Indore,10000+,Information Technology Support Services,2.8T
+WebCraft IT,4.4,Indore,,Information Technology Support Services,65
+Razorpay,3.9,Indore,501 to 1000,Internet & Web Services,607
+MAQ Software,2.7,Indore,501 to 1000,Information Technology Support Services,1.2T
+IGT Solutions,4.6,Indore,10000+,Information Technology Support Services,4.4T
 Rave Digital,4.5,Indore,51 to 200,Information Technology Support Services,39
-USM Business Systems,3.7,Indore,51 to 200,Computer Hardware Development,148
-IGT Solutions,4.6,Indore,10000+,Information Technology Support Services,4T
-Thoughtworks,4.4,Indore,5001 to 10000,Information Technology Support Services,3.7T
-Ness Digital Engineering,4.2,Indore,5001 to 10000,Information Technology Support Services,2.2T
-Infor,4.0,Indore,10000+,Enterprise Software & Network Solutions,4.5T
-Razorpay,4.0,Indore,501 to 1000,Internet & Web Services,518
-Uber,4.3,Indore,10000+,Internet & Web Services,25.5T
-Wipro Digital,3.7,Indore,5001 to 10000,Information Technology Support Services,1T
-OpenText,3.6,Indore,10000+,Enterprise Software & Network Solutions,4T
-Zoho,4.5,Indore,201 to 500,Computer Hardware Development,3.6T
-KPIT Technologies,3.8,Indore,5001 to 10000,Information Technology Support Services,3.8T
-Incedo,3.9,Indore,1001 to 5000,Information Technology Support Services,1.4T
-NSEIT,3.7,Indore,1001 to 5000,Information Technology Support Services,725
-Slide Inc,4.4,Indore,51 to 200,Internet & Web Services,945
-Protonshub Technologies,4.5,Indore,51 to 200,Information Technology Support Services,62
-Capillary Technologies,4.0,Indore,501 to 1000,Enterprise Software & Network Solutions,513
-Nutanix,4.1,Indore,5001 to 10000,Enterprise Software & Network Solutions,1.9T
-WebCraft IT,4.5,Indore,,Information Technology Support Services,60
-Arcesium,4.0,Indore,1001 to 5000,Information Technology Support Services,608
-Yashco Systems,4.2,Indore,1 to 50,Information Technology Support Services,47
-Syscraft Information System,4.1,Indore,51 to 200,Information Technology Support Services,49
-Potomac Technologies,4.4,Indore,201 to 500,Information Technology Support Services,48
-Airbnb,4.2,Indore,5001 to 10000,Internet & Web Services,2.4T
-Course Hero,4.5,Indore,201 to 500,Internet & Web Services,1.5T
-Software Developers,4.2,Indore,51 to 200,Computer Hardware Development,186
-Teamware Solutions,4.6,Indore,1001 to 5000,Information Technology Support Services,1.4T
-[24]7.ai,4.2,Indore,10000+,Information Technology Support Services,3.2T
-People Group,4.5,Indore,1001 to 5000,Internet & Web Services,377
-IIT,4.3,Indore,201 to 500,Information Technology Support Services,249
-Bellurbis Technologies,4.5,Indore,1 to 50,Information Technology Support Services,98
-STL - Sterlite Technologies Limited,3.5,Indore,1001 to 5000,Enterprise Software & Network Solutions,901
-Fortinet,4.4,Indore,10000+,Computer Hardware Development,2.1T
-TATA ELXSI,4.0,Indore,5001 to 10000,Information Technology Support Services,2.6T
-HighRadius,3.7,Indore,1001 to 5000,Enterprise Software & Network Solutions,2.7T
-Pine Labs,3.6,Indore,1001 to 5000,Internet & Web Services,526
+Thoughtworks,4.3,Indore,5001 to 10000,Information Technology Support Services,4T
+Protonshub Technologies,4.5,Indore,51 to 200,Information Technology Support Services,64
+Infor,4.0,Indore,10000+,Enterprise Software & Network Solutions,4.7T
+Raja Software Labs,3.8,Indore,51 to 200,Information Technology Support Services,607
+OpenText,3.6,Indore,10000+,Enterprise Software & Network Solutions,4.2T
+Zoho,4.5,Indore,201 to 500,Computer Hardware Development,3.9T
+Software Developers,4.2,Indore,51 to 200,Computer Hardware Development,202
+NSEIT,3.6,Indore,1001 to 5000,Information Technology Support Services,797
+KPIT Technologies,3.9,Indore,5001 to 10000,Information Technology Support Services,4T
+Slide Inc,4.3,Indore,51 to 200,Internet & Web Services,982
+Microsoft,4.3,Indore,10000+,Computer Hardware Development,50.9T
+Tech Mahindra,3.6,Indore,10000+,Information Technology Support Services,32.9T
+HCLTech,3.7,Indore,10000+,Computer Hardware Development,41.9T
+Tata Consultancy Services (North America),3.8,Indore,10000+,Information Technology Support Services,9.3T
+Zensar Technologies,3.9,Indore,5001 to 10000,Information Technology Support Services,4.4T
+DONE by NONE,4.0,Indore,1 to 50,Computer Hardware Development,4.1T
+Amdocs,4.0,Indore,10000+,Enterprise Software & Network Solutions,10.9T
+Persistent Systems,3.9,Indore,10000+,Information Technology Support Services,6.1T
+InfoBeans,4.0,Indore,501 to 1000,Information Technology Support Services,494
+Flipkart,4.0,Indore,10000+,Internet & Web Services,5.2T
+CarDekho,4.1,Indore,1001 to 5000,Internet & Web Services,628
+Course Hero,4.2,Indore,201 to 500,Internet & Web Services,1.5T
+Walmart Global Tech,3.9,Indore,1001 to 5000,Enterprise Software & Network Solutions,2.4T
+Mastek,3.6,Indore,1001 to 5000,Information Technology Support Services,1.1T
+Teamware Solutions,4.5,Indore,1001 to 5000,Information Technology Support Services,1.5T
+[24]7.ai,4.2,Indore,10000+,Information Technology Support Services,3.4T
+Bellurbis Technologies,4.6,Indore,1 to 50,Information Technology Support Services,98
+Fortinet,4.4,Indore,10000+,Computer Hardware Development,2.2T
+IIT,4.3,Indore,201 to 500,Information Technology Support Services,250
+Pine Labs,3.5,Indore,1001 to 5000,Internet & Web Services,578
+HighRadius,3.6,Indore,1001 to 5000,Enterprise Software & Network Solutions,3T
+People Group,4.4,Indore,1001 to 5000,Internet & Web Services,383
+Techment,4.0,Indore,51 to 200,Enterprise Software & Network Solutions,82
+Tietoevry,4.2,Indore,10000+,Information Technology Support Services,2.9T
+Tata Group,3.8,Indore,,Transportation Equipment Manufacturing,484
+Greendeck,4.0,Indore,51 to 200,Information Technology Support Services,37
 IBS Software,4.0,Indore,1001 to 5000,Enterprise Software & Network Solutions,1.2T
-YASH Technologies,3.8,Indore,5001 to 10000,Information Technology Support Services,1.9T
-Impetus Technologies,4.3,Indore,1001 to 5000,Computer Hardware Development,1.1T
-Microsoft,4.3,Indore,10000+,Computer Hardware Development,48.3T
-Tech Mahindra,3.6,Indore,10000+,Information Technology Support Services,31.5T
-HCLTech,3.7,Indore,10000+,Computer Hardware Development,40T
-Tata Consultancy Services (North America),3.8,Indore,10000+,Information Technology Support Services,8.8T
-Zensar Technologies,3.9,Indore,5001 to 10000,Information Technology Support Services,4.2T
-LTI,3.8,Indore,10000+,Information Technology Support Services,12.3T
-DONE by NONE,4.0,Indore,1 to 50,Computer Hardware Development,3.9T
-Amdocs,4.0,Indore,10000+,Enterprise Software & Network Solutions,10.5T
-NorthOut,3.5,Indore,51 to 200,Information Technology Support Services,34
-TekLink International,4.1,Indore,51 to 200,Information Technology Support Services,104
-MongoDB,4.4,Indore,1001 to 5000,Enterprise Software & Network Solutions,1.7T
 OakTreeCloud,4.8,Indore,51 to 200,Enterprise Software & Network Solutions,34
-Affiliated Computer Services,3.9,Indore,10000+,Information Technology Support Services,1.2T
-Tata Group,4.1,Indore,,Transportation Equipment Manufacturing,440
-Hitachi,3.8,Indore,10000+,Enterprise Software & Network Solutions,2.2T
-GEP,3.9,Indore,1001 to 5000,Enterprise Software & Network Solutions,2.1T
-Technorizen Software Solutions,4.7,Indore,1 to 50,Information Technology Support Services,40
-Techment,4.1,Indore,51 to 200,Enterprise Software & Network Solutions,79
-Raja Software Labs,3.8,Indore,51 to 200,Information Technology Support Services,588
-Tally Solutions,4.5,Indore,501 to 1000,Computer Hardware Development,489
-HTC Global Services,3.6,Indore,10000+,Information Technology Support Services,1.3T
+linkites infotech,4.1,Indore,1 to 50,Information Technology Support Services,62
+MongoDB,4.4,Indore,1001 to 5000,Enterprise Software & Network Solutions,1.8T
+GEP,3.8,Indore,1001 to 5000,Enterprise Software & Network Solutions,2.2T
+Hitachi,3.8,Indore,10000+,Enterprise Software & Network Solutions,2.3T
+Domo,4.4,Indore,501 to 1000,Software Development,610
+TekLink International,4.0,Indore,51 to 200,Information Technology Support Services,104
+NorthOut,3.5,Indore,51 to 200,Information Technology Support Services,34
+Affiliated Computer Services,3.7,Indore,10000+,Information Technology Support Services,1.2T
+Teksun Microsys,4.0,Indore,51 to 200,Computer Hardware Development,109
+Tally Solutions,4.5,Indore,501 to 1000,Computer Hardware Development,508
+HTC Global Services,3.6,Indore,10000+,Information Technology Support Services,1.4T
+Nenosystems Consulting Services,3.8,Indore,51 to 200,Information Technology Support Services,40
+Automation Anywhere,3.6,Indore,1001 to 5000,Enterprise Software & Network Solutions,914
 GenieTalk,4.1,Indore,1 to 50,Information Technology Support Services,47
-Teksun Microsys,4.1,Indore,51 to 200,Computer Hardware Development,104
-linkites infotech,4.2,Indore,1 to 50,Information Technology Support Services,61
-Greendeck,4.3,Indore,51 to 200,Information Technology Support Services,34
-Netlink,3.5,Indore,1001 to 5000,Information Technology Support Services,330
-Automation Anywhere,3.8,Indore,1001 to 5000,Enterprise Software & Network Solutions,866
-Lemosys,4.7,Indore,51 to 200,Information Technology Support Services,54
-NucleusTeq,4.7,Indore,201 to 500,Information Technology Support Services,51
-OLX Group,3.8,Indore,5001 to 10000,Internet & Web Services,875
-Zoom Video Communications,3.9,Indore,5001 to 10000,Information Technology Support Services,1.4T
-Inwizards,4.3,Indore,51 to 200,Software Development,29
-HT Media,3.6,Indore,1001 to 5000,Publishing,557
-Legato Health Technologies,4.0,Indore,10000+,Information Technology Support Services,1.7T
-Hidden Brains InfoTech,4.2,Indore,201 to 500,Information Technology Support Services,367
-Epicor Software,4.2,Indore,1001 to 5000,Software Development,1.8T
-Rishabh Software,4.2,Indore,501 to 1000,Information Technology Support Services,295
-American Chase,4.9,Indore,51 to 200,Information Technology Support Services,39
-Josh Software,3.9,Indore,201 to 500,Computer Hardware Development,260
-Brillio,3.8,Indore,1001 to 5000,Information Technology Support Services,1.5T
-Ramco Systems,3.7,Indore,1001 to 5000,Enterprise Software & Network Solutions,1T
-Gowebbaby,3.6,Indore,1 to 50,Information Technology Support Services,33
-Abacus Consultancy Services,3.7,Indore,1 to 50,Information Technology Support Services,36
-Mastek,3.8,Indore,1001 to 5000,Information Technology Support Services,976
-CarDekho,4.2,Indore,1001 to 5000,Internet & Web Services,596
-Apisero,4.4,Indore,1001 to 5000,Information Technology Support Services,692
-Xebia,3.8,Indore,5001 to 10000,Information Technology Support Services,865
-Meesho,3.6,Indore,501 to 1000,Internet & Web Services,741
-Trimble,4.3,Indore,10000+,Computer Hardware Development,1.2T
+Netlink,3.5,Indore,1001 to 5000,Information Technology Support Services,339
+Carelon Global Solutions,4.0,Indore,10000+,Information Technology Support Services,2T
+Zoom Video Communications,3.9,Indore,5001 to 10000,Information Technology Support Services,1.5T
+OLX Group,3.7,Indore,5001 to 10000,Internet & Web Services,926
 Kyvos Insights,4.1,Indore,201 to 500,Computer Hardware Development,68
-Ksolves,4.0,Indore,201 to 500,Information Technology Support Services,152
+Josh Software,3.9,Indore,201 to 500,Computer Hardware Development,282
+Lemosys,4.8,Indore,51 to 200,Information Technology Support Services,54
+Solugenix Corporation,3.7,Indore,1001 to 5000,Information Technology Support Services,227
+HT Media,3.5,Indore,1001 to 5000,Publishing,574
+Prakash Software Solutions Pvt Ltd.,4.0,Indore,51 to 200,Software Development,171
+Zscaler,4.0,Indore,5001 to 10000,Enterprise Software & Network Solutions,1.9T
+American Chase,4.7,Indore,51 to 200,Information Technology Support Services,41
+Rishabh Software,4.2,Indore,501 to 1000,Information Technology Support Services,304
+Epicor Software,4.2,Indore,1001 to 5000,Software Development,1.9T
+Inwizards,4.3,Indore,51 to 200,Software Development,29
+Brillio,3.6,Indore,1001 to 5000,Information Technology Support Services,1.7T
+Onward Technologies,3.5,Indore,1001 to 5000,Information Technology Support Services,534
+Abacus Consultancy Services,3.7,Indore,1 to 50,Information Technology Support Services,36
+Wiley Edge,4.0,Indore,501 to 1000,Information Technology Support Services,709
+CarWale,4.1,Indore,201 to 500,Internet & Web Services,266
+Ramco Systems,3.6,Indore,1001 to 5000,Enterprise Software & Network Solutions,1.1T
+Meesho,3.5,Indore,501 to 1000,Internet & Web Services,813
+Apisero,4.4,Indore,1001 to 5000,Information Technology Support Services,755
+Xebia,3.7,Indore,5001 to 10000,Information Technology Support Services,913
+Trimble,4.2,Indore,10000+,Computer Hardware Development,1.3T
+Uplers,4.2,Indore,501 to 1000,Information Technology Support Services,259
 Consagous,3.7,Indore,51 to 200,Computer Hardware Development,40
-Solugenix Corporation,4.0,Indore,1001 to 5000,Information Technology Support Services,216
-Planful,4.8,Indore,201 to 500,Software Development,306
+Gowebbaby,3.6,Indore,1 to 50,Information Technology Support Services,33
+Planful,4.4,Indore,201 to 500,Software Development,337
+RadixWeb,4.1,Indore,501 to 1000,Information Technology Support Services,325
+VideoVerse,4.8,Indore,201 to 500,Information Technology Support Services,42
+SoftGrid Computers,4.3,Indore,1 to 50,Information Technology Support Services,48
+Josh Technology Group,3.6,Indore,51 to 200,Internet & Web Services,332
+NRI FT India,4.0,Indore,201 to 500,Information Technology Support Services,150
+Google Cloud,4.1,Indore,,Internet & Web Services,571
+AM Webtech,3.7,Indore,1 to 50,Information Technology Support Services,24
+Redington Group,4.2,Indore,1001 to 5000,Computer Hardware Development,486
 CloudLIMS,4.9,Indore,1 to 50,Information Technology Support Services,46
-Rev,3.7,Indore,201 to 500,Enterprise Software & Network Solutions,2.1T
-LiveRamp,3.6,Indore,1001 to 5000,Computer Hardware Development,606
-Domo,4.5,Indore,501 to 1000,Software Development,581
-Josh Technology Group,3.9,Indore,51 to 200,Internet & Web Services,314
-Redington Group,4.3,Indore,1001 to 5000,Computer Hardware Development,456
-CSG,4.4,Indore,5001 to 10000,Enterprise Software & Network Solutions,1.1T
+Rev,3.6,Indore,201 to 500,Enterprise Software & Network Solutions,2.2T
+LiveRamp,3.6,Indore,1001 to 5000,Software Development,635
+YouTube,4.4,Indore,1001 to 5000,Internet & Web Services,1.4T
+Computer Task Group,3.7,Indore,1001 to 5000,Information Technology Support Services,565
+Ripple,4.0,Indore,501 to 1000,Enterprise Software & Network Solutions,228
+CSG,4.5,Indore,5001 to 10000,Enterprise Software & Network Solutions,1.2T
+FirstCry com,3.5,Indore,51 to 200,Computer Hardware Development,536
+Anchanto,4.0,Indore,201 to 500,Enterprise Software & Network Solutions,147
+Quantive,4.5,Indore,201 to 500,Enterprise Software & Network Solutions,88
 Sophos,3.9,Indore,1001 to 5000,Enterprise Software & Network Solutions,1.2T
-Ripple,4.1,Indore,501 to 1000,Enterprise Software & Network Solutions,216
-FirstCry com,3.6,Indore,51 to 200,Computer Hardware Development,489
-YouTube,4.4,Indore,1001 to 5000,Internet & Web Services,1.3T
-BlazeClan Technologies,3.9,Indore,501 to 1000,Information Technology Support Services,214
-Databricks,4.5,Indore,1001 to 5000,Computer Hardware Development,931
-Comviva,3.7,Indore,1001 to 5000,Information Technology Support Services,1.3T
-Metafic,4.5,Indore,1 to 50,Information Technology Support Services,62
-AM Webtech,3.6,Indore,1 to 50,Information Technology Support Services,21
-SoftGrid Computers,4.5,Indore,1 to 50,Information Technology Support Services,44
-Future Focus Infotech,3.9,Indore,501 to 1000,Information Technology Support Services,831
-MyOperator,4.4,Indore,51 to 200,Enterprise Software & Network Solutions,225
-Businessolver,4.0,Indore,1001 to 5000,Information Technology Support Services,433
-Anchanto,3.9,Indore,201 to 500,Enterprise Software & Network Solutions,121
-Uplers,4.2,Indore,501 to 1000,Information Technology Support Services,230
-ApplyBoard,3.9,Indore,1001 to 5000,Computer Hardware Development,479
-Emorphis,4.0,Indore,51 to 200,Computer Hardware Development,21
-Intelliswift,4.2,Indore,1001 to 5000,Software Development,581
-Tatvasoft,4.1,Indore,1001 to 5000,Information Technology Support Services,314
+Databricks,4.5,Indore,5001 to 10000,Computer Hardware Development,1T
+Sonata Software,3.8,Indore,5001 to 10000,Software Development,1.5T
+BlazeClan Technologies,3.9,Indore,501 to 1000,Information Technology Support Services,228
+Upwork,3.8,Indore,501 to 1000,Internet & Web Services,509
+Comviva,3.7,Indore,1001 to 5000,Information Technology Support Services,1.4T
+FREENOW,3.9,Indore,1001 to 5000,Information Technology Support Services,893
+Emorphis,3.8,Indore,51 to 200,Computer Hardware Development,22
+MyOperator,4.4,Indore,51 to 200,Enterprise Software & Network Solutions,243
+WebKorps Solutions,4.2,Indore,1 to 50,Information Technology Support Services,34
+Tatvasoft,4.2,Indore,1001 to 5000,Information Technology Support Services,351
+Aptean,3.9,Indore,1001 to 5000,Computer Hardware Development,997
+Graffersid,4.8,Indore,51 to 200,Software Development,39
+Businessolver,4.0,Indore,1001 to 5000,Information Technology Support Services,451
+Remote,3.9,Indore,501 to 1000,Internet & Web Services,351
+Celebal Technologies,4.0,Indore,201 to 500,Enterprise Software & Network Solutions,642
+Future Focus Infotech,3.7,Indore,501 to 1000,Information Technology Support Services,847
+Pramata,4.5,Indore,201 to 500,Software Development,323
+ApplyBoard,3.6,Indore,1001 to 5000,Computer Hardware Development,510
+Flexton,4.3,Indore,201 to 500,Information Technology Support Services,90
+Mindpath,4.4,Indore,51 to 200,Information Technology Support Services,32
+ValueLabs,4.3,Indore,5001 to 10000,Information Technology Support Services,2.8T
+Mphasis,3.6,Indore,10000+,Information Technology Support Services,9T
+Rakuten,3.6,Indore,10000+,Internet & Web Services,3T
+Cisco Systems,4.4,Indore,10000+,Enterprise Software & Network Solutions,32.1T
+Hinduja Global Solutions,3.5,Indore,10000+,Information Technology Support Services,4.5T
+Nagarro,4.1,Indore,10000+,Information Technology Support Services,4.6T
+Cyber Infrastructure (CIS),3.6,Indore,1001 to 5000,Information Technology Support Services,304
+Diaspark,3.6,Indore,501 to 1000,Information Technology Support Services,201
+Salesforce,4.2,Indore,10000+,Enterprise Software & Network Solutions,17.8T
+Oracle,4.0,Indore,10000+,Enterprise Software & Network Solutions,50.6T
+Intelliswift,4.1,Indore,1001 to 5000,Software Development,606
+CBNITS,4.7,Indore,201 to 500,Information Technology Support Services,200
+Capital Numbers,4.7,Indore,201 to 500,Information Technology Support Services,707
+Team Computers,4.1,Indore,1001 to 5000,Information Technology Support Services,1.1T
 Vista IT Solutions (India),4.4,Indore,51 to 200,Enterprise Software & Network Solutions,38
-Team Computers,4.2,Indore,1001 to 5000,Information Technology Support Services,1.1T
-Remote,3.9,Indore,501 to 1000,Internet & Web Services,307
+Fusion Global Business Solutions,4.3,Indore,201 to 500,Enterprise Software & Network Solutions,34
 Controlf5.in,4.7,Indore,1 to 50,Internet & Web Services,37
-Pramata,4.4,Indore,201 to 500,Software Development,299
-CBNITS,4.7,Indore,201 to 500,Information Technology Support Services,198
-Capital Numbers,4.7,Indore,201 to 500,Information Technology Support Services,663
-Graffersid,4.9,Indore,1 to 50,Information Technology Support Services,35
-NRI FT India,4.1,Indore,201 to 500,Information Technology Support Services,138
-Inpetro Technologies,3.8,Indore,1001 to 5000,Information Technology Support Services,36
-NIC,4.1,Indore,501 to 1000,Enterprise Software & Network Solutions,320
-Zeetech Management & Marketing,4.5,Indore,201 to 500,Information Technology Support Services,263
-Unthinkable,4.0,Indore,51 to 200,Information Technology Support Services,248
-VVDN Technologies ,3.6,Indore,1001 to 5000,Information Technology Support Services,810
-Flexton,4.6,Indore,201 to 500,Information Technology Support Services,88
-Turing,4.0,Indore,501 to 1000,Software Development,495
-ATMECS,3.7,Indore,501 to 1000,Information Technology Support Services,288
-Upwork,4.2,Indore,501 to 1000,Internet & Web Services,442
-IndiaNIC Infotech,3.5,Indore,201 to 500,Information Technology Support Services,220
-Axelerant,4.5,Indore,51 to 200,Information Technology Support Services,113
-OutSystems,4.0,Indore,1001 to 5000,Computer Hardware Development,508
-Celebal Technologies,4.1,Indore,201 to 500,Enterprise Software & Network Solutions,465
-Webllisto Technologies,4.7,Indore,1 to 50,Enterprise Software & Network Solutions,25
-emids,3.7,Indore,1001 to 5000,Information Technology Support Services,751
-RadixWeb,3.9,Indore,501 to 1000,Information Technology Support Services,299
-Inspirisys Solutions Limited,4.3,Indore,1001 to 5000,Information Technology Support Services,528
-Quinnox,3.8,Indore,1001 to 5000,Information Technology Support Services,599
-Allstate India,4.2,Indore,5001 to 10000,Information Technology Support Services,819
-Flipkart,4.0,Indore,10000+,Internet & Web Services,4.9T
-InfoBeans,4.1,Indore,501 to 1000,Information Technology Support Services,470
-ValueLabs,4.3,Indore,5001 to 10000,Information Technology Support Services,2.6T
-Mphasis,3.6,Indore,10000+,Information Technology Support Services,8.6T
-Persistent Systems,4.0,Indore,10000+,Information Technology Support Services,5.7T
-Rakuten,3.7,Indore,10000+,Internet & Web Services,2.7T
-Cyber Infrastructure (CIS),3.7,Indore,1001 to 5000,Information Technology Support Services,294
-Cisco Systems,4.4,Indore,10000+,Enterprise Software & Network Solutions,31.1T
-Salesforce,4.4,Indore,10000+,Enterprise Software & Network Solutions,16.6T
-Atos-Syntel,3.6,Indore,10000+,Information Technology Support Services,7.5T
-Fusion Global Business Solutions,4.5,Indore,201 to 500,Enterprise Software & Network Solutions,32
-Quest GTL,3.6,Indore,51 to 200,Information Technology Support Services,21
-Computer Task Group,3.5,Indore,1001 to 5000,Information Technology Support Services,548
-DigitalOcean,3.8,Indore,501 to 1000,Information Technology Support Services,308
-Nuclei,4.0,Indore,51 to 200,Enterprise Software & Network Solutions,106
-Robosoft Technologies,4.4,Indore,1001 to 5000,Information Technology Support Services,685
-Teamleader,4.4,Indore,51 to 200,Enterprise Software & Network Solutions,76
-Brain Inventory,4.7,Indore,1 to 50,Information Technology Support Services,34
-Directi,4.1,Indore,1001 to 5000,Internet & Web Services,514
-TechValens,4.5,Indore,51 to 200,Computer Hardware Development,27
-iOPEX Technologies,3.6,Indore,1001 to 5000,Enterprise Software & Network Solutions,685
-Mindpath,4.6,Indore,51 to 200,Information Technology Support Services,28
-FREENOW,3.8,Indore,1001 to 5000,Information Technology Support Services,390
+Turing,4.0,Indore,501 to 1000,Software Development,554
+Unthinkable,3.8,Indore,51 to 200,Information Technology Support Services,273
+VVDN Technologies ,3.5,Indore,1001 to 5000,Information Technology Support Services,872
+iOPEX Technologies,4.0,Indore,1001 to 5000,Enterprise Software & Network Solutions,867
+ASDF Web Hosting,4.2,Indore,1001 to 5000,Information Technology Support Services,257
+Webllisto Technologies,4.7,Indore,1 to 50,Enterprise Software & Network Solutions,26
+ESDS Software Solution,3.7,Indore,1001 to 5000,Information Technology Support Services,371
+ATMECS,3.7,Indore,501 to 1000,Information Technology Support Services,300
+NIC,4.3,Indore,501 to 1000,Enterprise Software & Network Solutions,327
+Inpetro Technologies,4.0,Indore,1001 to 5000,Information Technology Support Services,36
+Brain Inventory,4.6,Indore,1 to 50,Information Technology Support Services,36
+IndiaNIC Infotech,3.5,Indore,201 to 500,Information Technology Support Services,233
+Axelerant,4.3,Indore,51 to 200,Information Technology Support Services,121
+OutSystems,4.1,Indore,1001 to 5000,Computer Hardware Development,536
+Zeetech Management & Marketing,4.4,Indore,201 to 500,Information Technology Support Services,263
+emids,3.6,Indore,1001 to 5000,Information Technology Support Services,798
+Techsolvo,4.5,Indore,1 to 50,Information Technology Support Services,33
+Teliolabs,4.4,Indore,51 to 200,Information Technology Support Services,78
+Nuclei,3.9,Indore,51 to 200,Enterprise Software & Network Solutions,114
+Allstate India,4.2,Indore,5001 to 10000,Information Technology Support Services,872
+Inspirisys Solutions Limited,4.3,Indore,1001 to 5000,Information Technology Support Services,536
+Robosoft Technologies,4.4,Indore,1001 to 5000,Information Technology Support Services,736
+DigitalOcean,3.8,Indore,501 to 1000,Information Technology Support Services,336
+Quinnox,3.5,Indore,1001 to 5000,Information Technology Support Services,620
+Quest GTL,3.5,Indore,51 to 200,Information Technology Support Services,22
+Golden Eagle IT Technologies,3.8,Indore,1 to 50,Information Technology Support Services,50
 Empower Integrated Solutions (P) Ltd.,4.0,Indore,51 to 200,Information Technology Support Services,36
-Techsolvo,4.7,Indore,1 to 50,Information Technology Support Services,32
-Eternus Solutions,3.7,Indore,201 to 500,Information Technology Support Services,176
-Golden Eagle IT Technologies,3.8,Indore,1 to 50,Information Technology Support Services,49
-TCS e-Serve International,3.8,Indore,5001 to 10000,Information Technology Support Services,404
-Applications Software Technology,3.7,Indore,501 to 1000,Information Technology Support Services,255
-Dineout,3.8,Indore,501 to 1000,Internet & Web Services,219
-Teliolabs,4.4,Indore,51 to 200,Information Technology Support Services,73
-GirnarSoft,4.0,Indore,1001 to 5000,Computer Hardware Development,373
-CTS,3.8,Indore,51 to 200,Information Technology Support Services,551
-OneSource Virtual,4.1,Indore,1001 to 5000,Internet & Web Services,415
-VideoVerse,4.9,Indore,201 to 500,Information Technology Support Services,32
+Multidots Solutions,4.9,Indore,51 to 200,Information Technology Support Services,112
+Eclat Infotech,3.9,Indore,1 to 50,Computer Hardware Development,30
+Biz4Solutions,3.5,Indore,51 to 200,Information Technology Support Services,74
+Helpshift,4.3,Indore,51 to 200,Enterprise Software & Network Solutions,104
+Directi,4.1,Indore,1001 to 5000,Internet & Web Services,519
+TechValens,4.5,Indore,51 to 200,Computer Hardware Development,27
+Gemini Solutions,3.9,Indore,1001 to 5000,Information Technology Support Services,633
+Eternus Solutions,3.7,Indore,201 to 500,Information Technology Support Services,179
+Dineout,3.9,Indore,501 to 1000,Internet & Web Services,224
+Applications Software Technology,3.7,Indore,501 to 1000,Information Technology Support Services,271
+TCS e-Serve International,3.8,Indore,5001 to 10000,Information Technology Support Services,410
+Azilen Technologies,3.8,Indore,201 to 500,Software Development,158
+Rupeek ,3.8,Indore,201 to 500,Internet & Web Services,355
+GirnarSoft,3.9,Indore,1001 to 5000,Computer Hardware Development,385
+CTS,3.8,Indore,51 to 200,Information Technology Support Services,398
+ShareChat,3.8,Indore,1001 to 5000,Internet & Web Services,514
+COVETUS,3.6,Indore,51 to 200,Information Technology Support Services,22
+Springworks,4.3,Indore,201 to 500,Internet & Web Services,386
+OneSource Virtual,4.0,Indore,1001 to 5000,Internet & Web Services,429
+TechCoopers,4.5,Indore,1 to 50,Information Technology Support Services,23
+SentinelOne ,4.7,Indore,1001 to 5000,Enterprise Software & Network Solutions,495
+Teamleader,4.3,Indore,51 to 200,Enterprise Software & Network Solutions,78
 Chetaru,4.3,Indore,51 to 200,Information Technology Support Services,21
-ESDS Software Solution,4.0,Indore,1001 to 5000,Information Technology Support Services,349
-Zeta Suite,3.7,Indore,1001 to 5000,Software Development,420
-Clarigo Infotech Private Limited,4.9,Indore,1 to 50,Information Technology Support Services,17
-Eastern Software Systems,3.6,Indore,201 to 500,Information Technology Support Services,245
-BPO Systems,3.9,Indore,1 to 50,Information Technology Support Services,54
-F5 Buddy,4.9,Indore,1 to 50,Information Technology Support Services,19
-COVETUS,3.5,Indore,51 to 200,Information Technology Support Services,21
-Eclat Infotech,3.6,Indore,1 to 50,Computer Hardware Development,24
-GGK Tech,3.7,Indore,501 to 1000,Information Technology Support Services,418
-Sankalp Semiconductor,3.7,Indore,501 to 1000,Information Technology Support Services,299
-SentinelOne ,4.8,Indore,1001 to 5000,Enterprise Software & Network Solutions,432
-Vena Solutions,4.5,Indore,501 to 1000,Software Development,255
-6Degrees IT,4.2,Indore,51 to 200,Information Technology Support Services,19
-Groww,4.2,Indore,501 to 1000,Internet & Web Services,236
-yellow.ai,3.8,Indore,501 to 1000,Enterprise Software & Network Solutions,457
-Uneecops Technologies,4.1,Indore,201 to 500,Information Technology Support Services,260
-IVL Global,3.7,Indore,501 to 1000,Information Technology Support Services,163
-Danske IT and Support Services,3.8,Indore,1001 to 5000,Information Technology Support Services,450
-Quantive,4.5,Indore,201 to 500,Enterprise Software & Network Solutions,81
-EPIC Information Solutions,3.5,Indore,51 to 200,Computer Hardware Development,57
-JUSPAY,4.5,Indore,51 to 200,Internet & Web Services,282
-CMS Info Systems,3.5,Indore,1001 to 5000,Computer Hardware Development,281
-Prakash Software Solutions Pvt Ltd.,4.3,Indore,51 to 200,Information Technology Support Services,157
-Acer Group,3.9,Indore,5001 to 10000,Computer Hardware Development,475
-Quick Heal,3.7,Indore,1001 to 5000,Enterprise Software & Network Solutions,528
+6Degrees IT,4.2,Indore,51 to 200,Information Technology Support Services,20
+Zeta,3.6,Indore,1001 to 5000,Software Development,447
+Groww,4.0,Indore,501 to 1000,Internet & Web Services,274
 5 Exceptions,4.0,Indore,51 to 200,Information Technology Support Services,24
-Apps Associates,4.4,Indore,1001 to 5000,Information Technology Support Services,277
-Azilen Technologies,3.7,Indore,201 to 500,Computer Hardware Development,152
-WebKorps Solutions,4.5,Indore,1 to 50,Information Technology Support Services,27
-InnovationM,4.1,Indore,201 to 500,Computer Hardware Development,262
-"LMS, Inc.",3.7,Indore,51 to 200,Enterprise Software & Network Solutions,41
-Multidots Solutions,4.9,Indore,51 to 200,Information Technology Support Services,103
+Vena Solutions,4.2,Indore,501 to 1000,Software Development,280
+JUSPAY,4.3,Indore,51 to 200,Internet & Web Services,325
+Eastern Software Systems,3.5,Indore,201 to 500,Information Technology Support Services,247
+BPO Systems,4.0,Indore,1 to 50,Information Technology Support Services,56
+Clarigo Infotech Private Limited,4.9,Indore,1 to 50,Information Technology Support Services,17
+yellow.ai,3.8,Indore,501 to 1000,Enterprise Software & Network Solutions,494
+F5 Buddy,4.9,Indore,1 to 50,Information Technology Support Services,19
+Sankalp Semiconductor,3.7,Indore,501 to 1000,Information Technology Support Services,305
+Anyone Home,3.6,Indore,201 to 500,Enterprise Software & Network Solutions,136
+GGK Tech,3.8,Indore,501 to 1000,Information Technology Support Services,419
+IVL Global,3.8,Indore,501 to 1000,Information Technology Support Services,167
+Uneecops Technologies,4.2,Indore,201 to 500,Information Technology Support Services,267
 Qualwebs,4.3,Indore,1 to 50,Information Technology Support Services,24
-Atidiv,4.4,Indore,201 to 500,Information Technology Support Services,161
-Ketto,4.6,Indore,1 to 50,Internet & Web Services,300
-India Infotech,4.1,Indore,51 to 200,Information Technology Support Services,32
+Acer Group,3.9,Indore,5001 to 10000,Computer Hardware Development,492
+CMS Info Systems,3.7,Indore,1001 to 5000,Computer Hardware Development,291
+Quick Heal,3.6,Indore,1001 to 5000,Enterprise Software & Network Solutions,545
+EPIC Information Solutions,3.5,Indore,51 to 200,Computer Hardware Development,56
+Apps Associates,4.1,Indore,1001 to 5000,Information Technology Support Services,295
+InnovationM,4.2,Indore,201 to 500,Computer Hardware Development,282
+Turgajo,4.5,Indore,1 to 50,Computer Hardware Development,20
+Immersive Infotech,4.9,Indore,51 to 200,Information Technology Support Services,18
+"LMS, Inc.",3.8,Indore,51 to 200,Enterprise Software & Network Solutions,43
+India Infotech,4.0,Indore,51 to 200,Information Technology Support Services,33
+Parkhya Solutions,4.4,Indore,51 to 200,Information Technology Support Services,24
+Lotus Interworks,4.3,Indore,1 to 50,Computer Hardware Development,154
+Atidiv,4.5,Indore,201 to 500,Information Technology Support Services,166
+Ketto,4.6,Indore,1 to 50,Internet & Web Services,303
+Shorewise Consulting,4.1,Indore,501 to 1000,Information Technology Support Services,100
+Appointy,4.2,Indore,51 to 200,Enterprise Software & Network Solutions,89
+Infowind Technologies,4.4,Indore,1 to 50,Information Technology Support Services,23
+clickworker,3.5,Indore,1 to 50,Internet & Web Services,339
+Teamwork,3.8,Indore,201 to 500,Computer Hardware Development,192
+ABM Knowledgeware,3.6,Indore,501 to 1000,Information Technology Support Services,147
 Sedna Consulting Group,4.2,Indore,1 to 50,Computer Hardware Development,22
-clickworker,3.5,Indore,1 to 50,Internet & Web Services,326
+FreeCharge,3.7,Indore,501 to 1000,Internet & Web Services,298
+Cibirix,4.2,Indore,1 to 50,Information Technology Support Services,31
+Kumaran Systems,3.8,Indore,501 to 1000,Computer Hardware Development,287
+Dailyhunt,3.7,Indore,501 to 1000,Internet & Web Services,306
+Verdantis,3.9,Indore,51 to 200,Information Technology Support Services,39
+Altruist Technologies,4.3,Indore,10000+,Information Technology Support Services,867
+Genpact,4.0,Indore,10000+,Information Technology Support Services,21.2T
+XYZ,3.8,Indore,1 to 50,Computer Hardware Development,3.5T
+Apple,4.2,Indore,10000+,Computer Hardware Development,39.8T
+Concentrix,4.2,Indore,10000+,Information Technology Support Services,32T
+Atos-Syntel,3.6,Indore,10000+,Information Technology Support Services,7.7T
+Deqode,4.1,Indore,201 to 500,Information Technology Support Services,299
+Dell Technologies,4.3,Indore,10000+,Information Technology Support Services,34T
+Paytm,3.6,Indore,10000+,Internet & Web Services,4T
+Hexaware Technologies,3.7,Indore,10000+,Information Technology Support Services,5.3T
+Velotio,4.7,Indore,201 to 500,Information Technology Support Services,106
+Awign Enterprises,4.4,Indore,201 to 500,Internet & Web Services,381
 Workpulse,4.5,Indore,1 to 50,Enterprise Software & Network Solutions,27
-Appointy,4.2,Indore,51 to 200,Enterprise Software & Network Solutions,86
-Rupeek ,3.8,Indore,201 to 500,Internet & Web Services,337
-Shorewise Consulting,4.3,Indore,501 to 1000,Information Technology Support Services,96
-Turgajo,4.5,Indore,1 to 50,Computer Hardware Development,19
-Verdantis,3.9,Indore,51 to 200,Information Technology Support Services,38
-Kumaran Systems,3.9,Indore,501 to 1000,Computer Hardware Development,274
-Teamwork,3.6,Indore,201 to 500,Computer Hardware Development,182
 Profilics,4.9,Indore,1 to 50,Information Technology Support Services,21
-Dailyhunt,3.9,Indore,501 to 1000,Internet & Web Services,290
-Parkhya Solutions,4.4,Indore,51 to 200,Information Technology Support Services,23
-Lotus Interworks,4.4,Indore,1 to 50,Computer Hardware Development,129
-Simpalm,4.1,Indore,1 to 50,Software Development,24
-Iimjobs.com,3.9,Indore,51 to 200,Internet & Web Services,132
-Idea Usher,4.7,Indore,51 to 200,Information Technology Support Services,92
-Infowind Technologies,4.7,Indore,1 to 50,Information Technology Support Services,21
-FreeCharge,4.1,Indore,501 to 1000,Internet & Web Services,265
-Awign Enterprises,4.0,Indore,201 to 500,Internet & Web Services,342
-JustAnswer,4.5,Indore,501 to 1000,Internet & Web Services,254
-Extentia,4.0,Indore,501 to 1000,Information Technology Support Services,241
-Evolve Technologies & Services,4.0,Indore,1001 to 5000,Information Technology Support Services,92
-Velotio,4.8,Indore,201 to 500,Information Technology Support Services,95
-HackerOne,4.5,Indore,201 to 500,Enterprise Software & Network Solutions,170
-Immersive Infotech,4.8,Indore,51 to 200,Information Technology Support Services,16
-Caresoft Global,3.6,Indore,1001 to 5000,Information Technology Support Services,194
-GOFRUGAL Technologies,4.2,Indore,201 to 500,Enterprise Software & Network Solutions,234
-Creative Thoughts Informatics,4.6,Indore,1 to 50,Information Technology Support Services,22
-mjunction services limited,3.9,Indore,501 to 1000,Information Technology Support Services,173
-Turtlemint,4.1,Indore,201 to 500,Internet & Web Services,174
-Biz4Solutions,3.8,Indore,51 to 200,Information Technology Support Services,68
-DeepMind,4.6,Indore,1001 to 5000,Computer Hardware Development,129
+JustAnswer,3.9,Indore,501 to 1000,Internet & Web Services,272
+Iimjobs.com,4.0,Indore,51 to 200,Internet & Web Services,137
 Shriffle,4.7,Indore,1 to 50,Information Technology Support Services,20
-Varite,4.1,Indore,201 to 500,Information Technology Support Services,323
-NewVision Software & Consultancy,4.2,Indore,201 to 500,Information Technology Support Services,95
-Nearbuy,4.2,Indore,501 to 1000,Internet & Web Services,274
-Allied Digital Services,3.6,Indore,1001 to 5000,Computer Hardware Development,293
-Concentrix,4.3,Indore,10000+,Information Technology Support Services,29.2T
-Oracle,3.9,Indore,10000+,Enterprise Software & Network Solutions,48.5T
-Apple,4.4,Indore,10000+,Computer Hardware Development,37.8T
-Nagarro,4.2,Indore,10000+,Information Technology Support Services,4.2T
-Genpact,4.0,Indore,10000+,Information Technology Support Services,19.9T
-Deqode,4.2,Indore,201 to 500,Information Technology Support Services,280
-Dell Technologies,4.3,Indore,10000+,Information Technology Support Services,32.5T
-Mindtree,4.0,Indore,10000+,Information Technology Support Services,11.1T
-Paytm,3.6,Indore,10000+,Internet & Web Services,3.8T
-XYZ,3.8,Indore,1 to 50,Computer Hardware Development,3.1T
+HackerOne,4.6,Indore,201 to 500,Enterprise Software & Network Solutions,181
+Idea Usher,4.8,Indore,51 to 200,Information Technology Support Services,92
+Seclore Technology,4.5,Indore,201 to 500,Enterprise Software & Network Solutions,162
+Simpalm,4.1,Indore,1 to 50,Software Development,24
+Turtlemint,4.1,Indore,201 to 500,Internet & Web Services,199
+Extentia,3.9,Indore,501 to 1000,Information Technology Support Services,254
+NewVision Software & Consultancy,4.3,Indore,201 to 500,Information Technology Support Services,106
+Webvillee Technology Pvt Ltd,4.6,Indore,51 to 200,Information Technology Support Services,31
+Evolve Technologies & Services,4.1,Indore,1001 to 5000,Information Technology Support Services,93
+Caresoft Global,3.7,Indore,1001 to 5000,Information Technology Support Services,210
+Brane Enterprises (nslhub),3.7,Indore,1001 to 5000,Software Development,236
+Creative Thoughts Informatics,4.6,Indore,1 to 50,Information Technology Support Services,22
+TagX,4.6,Indore,1 to 50,Information Technology Support Services,22
+Gems Essence,4.3,Indore,1 to 50,Information Technology Support Services,17
+Google DeepMind,4.5,Indore,1001 to 5000,Computer Hardware Development,134
+mjunction services limited,4.0,Indore,501 to 1000,Information Technology Support Services,177
+Safeguard Global,3.6,Indore,1001 to 5000,Information Technology Support Services,214
+GOFRUGAL Technologies,4.2,Indore,201 to 500,Enterprise Software & Network Solutions,240
+Geekyants Software,4.0,Indore,201 to 500,Information Technology Support Services,198
+Allied Digital Services,3.5,Indore,1001 to 5000,Computer Hardware Development,304
+Varite,3.7,Indore,201 to 500,Information Technology Support Services,327
+Recro,4.3,Indore,51 to 200,Internet & Web Services,172
+Nearbuy,4.2,Indore,501 to 1000,Internet & Web Services,276
 Abhyudaya Multimedia,4.5,Indore,51 to 200,Information Technology Support Services,28
-Webvillee Technology Pvt Ltd,4.6,Indore,51 to 200,Information Technology Support Services,29
-Cibirix,4.5,Indore,1 to 50,Information Technology Support Services,29
-Geekyants Software,4.0,Indore,201 to 500,Information Technology Support Services,174
-Recro,4.4,Indore,51 to 200,Internet & Web Services,155
-DynPro,3.6,Indore,51 to 200,Information Technology Support Services,187
-Ittiam Systems,3.7,Indore,201 to 500,Enterprise Software & Network Solutions,173
+Ittiam Systems,3.6,Indore,201 to 500,Enterprise Software & Network Solutions,178
+Airmeet,4.4,Indore,201 to 500,Enterprise Software & Network Solutions,149
+DynPro,3.7,Indore,51 to 200,Information Technology Support Services,191
+Sureshkumar,3.8,Indore,,Internet & Web Services,202
+Yocket,4.3,Indore,201 to 500,Internet & Web Services,144
 ARYUPAY,5.0,Indore,201 to 500,Information Technology Support Services,7
-Sureshkumar,3.8,Indore,,Internet & Web Services,197
+Interra Information Technologies,3.6,Indore,501 to 1000,Information Technology Support Services,174
+Engineer Master,4.8,Indore,51 to 200,Information Technology Support Services,26
+CashKaro.com,4.9,Indore,51 to 200,Internet & Web Services,288
 Times Business Solutions,3.6,Indore,501 to 1000,Internet & Web Services,112
-Yocket,4.3,Indore,201 to 500,Internet & Web Services,138
-Brane Enterprises (nslhub),3.5,Indore,1001 to 5000,Software Development,176
-Interra Information Technologies,3.6,Indore,501 to 1000,Information Technology Support Services,168
-Airmeet,4.5,Indore,201 to 500,Enterprise Software & Network Solutions,134
-Aurus,3.5,Indore,201 to 500,Information Technology Support Services,206
-Akshaya,4.0,Indore,51 to 200,Information Technology Support Services,144
-Engineer Master,4.8,Indore,51 to 200,Information Technology Support Services,25
-CashKaro.com,4.8,Indore,51 to 200,Internet & Web Services,260
-Walking Tree,3.7,Indore,201 to 500,Information Technology Support Services,164
-I.T. Software Solutions,4.1,Indore,1 to 50,Computer Hardware Development,32
+Teqlawn,4.9,Indore,1 to 50,Software Development,14
+Ayush Software,3.8,Indore,1 to 50,Information Technology Support Services,98
+BatchService,4.6,Indore,51 to 200,Enterprise Software & Network Solutions,177
+Talentsoft,3.7,Indore,501 to 1000,Enterprise Software & Network Solutions,162
+Qualtech Consultants Pvt.,4.5,Indore,51 to 200,Information Technology Support Services,341
+Akshaya,4.0,Indore,51 to 200,Information Technology Support Services,145
+Synsoft Global,4.1,Indore,51 to 200,Software Development,24
+MindCrew Technologies,4.5,Indore,1 to 50,Information Technology Support Services,22
+Walking Tree,4.4,Indore,201 to 500,Information Technology Support Services,193
+Pavan,3.9,Indore,201 to 500,Computer Hardware Development,164
+Infoxeron,4.8,Indore,1 to 50,Information Technology Support Services,32
+Grapecity,3.9,Indore,51 to 200,Computer Hardware Development,133
+DSM Infocom,4.1,Indore,1001 to 5000,Information Technology Support Services,83
+OneHash,4.8,Indore,1 to 50,Information Technology Support Services,21
+Relinns Technologies,4.7,Indore,51 to 200,Information Technology Support Services,96
+I.T. Software Solutions,4.1,Indore,1 to 50,Computer Hardware Development,34
+FiftyFive Technologies,4.6,Indore,51 to 200,Information Technology Support Services,44
 iface,4.7,Indore,1 to 50,Information Technology Support Services,23
-InKnowTech,4.4,Indore,201 to 500,Information Technology Support Services,259
-Grapecity,3.7,Indore,51 to 200,Computer Hardware Development,124
-Synsoft Global,4.2,Indore,51 to 200,Software Development,23
-Saxon Global,3.9,Indore,201 to 500,Information Technology Support Services,164
+QSS Technosoft,4.0,Indore,201 to 500,Information Technology Support Services,182
+InKnowTech,4.4,Indore,201 to 500,Information Technology Support Services,261
+TheRapidHire,3.7,Indore,51 to 200,Software Development,14
+Programmers.io,4.3,Indore,501 to 1000,Information Technology Support Services,102
+Tekfortune,4.6,Indore,1 to 50,Information Technology Support Services,25
+NITS,3.5,Indore,51 to 200,Information Technology Support Services,105
 Adroit Associates Inc,4.1,Indore,51 to 200,Information Technology Support Services,26
 Ipswitch,3.6,Indore,201 to 500,Enterprise Software & Network Solutions,120
-FiftyFive Technologies,4.5,Indore,51 to 200,Information Technology Support Services,39
-Infoxeron,4.8,Indore,1 to 50,Information Technology Support Services,32
-QSS Technosoft,4.0,Indore,201 to 500,Information Technology Support Services,173
-TheRapidHire,3.9,Indore,51 to 200,Software Development,13
-NITS,3.5,Indore,51 to 200,Information Technology Support Services,99
-Trilogy Innovations,3.7,Indore,1 to 50,Computer Hardware Development,96
-Valuebound,4.1,Indore,51 to 200,Information Technology Support Services,70
+Pragma,4.4,Indore,1001 to 5000,Software Development,173
+Nectar Infotel Solutions,4.0,Indore,51 to 200,Information Technology Support Services,50
+Outline Systems India,4.5,Indore,201 to 500,Information Technology Support Services,114
+Trilogy Innovations,3.7,Indore,1 to 50,Computer Hardware Development,100
+Valuebound,3.9,Indore,51 to 200,Information Technology Support Services,76
+Mahindra First Choice Wheels,3.7,Indore,1001 to 5000,Internet & Web Services,187
+AgroStar,4.1,Indore,1001 to 5000,Internet & Web Services,150
 ShahSoftSol,3.9,Indore,1 to 50,Information Technology Support Services,15
-OneHash,4.8,Indore,1 to 50,Information Technology Support Services,20
-Avizva Solutions,3.7,Indore,201 to 500,Information Technology Support Services,148
-Mahindra First Choice Wheels,4.3,Indore,1001 to 5000,Internet & Web Services,168
-AgroStar,4.3,Indore,1001 to 5000,Internet & Web Services,142
+InApp Information Technologies,4.6,Indore,201 to 500,Information Technology Support Services,117
+Karat,3.5,Indore,201 to 500,Internet & Web Services,79
+Dollop Infotech,4.7,Indore,1 to 50,Information Technology Support Services,18
+SoluLab,3.6,Indore,51 to 200,Information Technology Support Services,199
 Wangoes Technology,4.3,Indore,1 to 50,Information Technology Support Services,9
-Naaptol,3.5,Indore,51 to 200,Internet & Web Services,113
-BatchService,4.7,Indore,51 to 200,Enterprise Software & Network Solutions,150
-Teqlawn,4.9,Indore,1 to 50,Software Development,13
-Karat,4.0,Indore,201 to 500,Internet & Web Services,75
-One Beyond,3.8,Indore,201 to 500,Software Development,82
-Shiksha Infotech Ltd,3.9,Indore,201 to 500,Information Technology Support Services,89
-InApp Information Technologies,4.6,Indore,201 to 500,Information Technology Support Services,113
-SoluLab,3.8,Indore,51 to 200,Information Technology Support Services,180
-Enzigma,4.0,Indore,51 to 200,Software Development,82
-Tekfortune,4.6,Indore,1 to 50,Information Technology Support Services,23
+Mad Street Den Systems,4.2,Indore,201 to 500,Enterprise Software & Network Solutions,107
+ITcompany,4.3,Indore,201 to 500,Computer Hardware Development,102
+Shiksha Infotech Ltd,3.8,Indore,201 to 500,Information Technology Support Services,90
+Tech Prescient,4.6,Indore,51 to 200,Information Technology Support Services,111
+Enzigma,4.0,Indore,51 to 200,Software Development,84
+Dash Technologies,4.4,Indore,501 to 1000,Information Technology Support Services,135
+OptimHire,3.5,Indore,51 to 200,Information Technology Support Services,80
+WebMobril Technologies,4.5,Indore,201 to 500,Information Technology Support Services,61
+imocha,4.7,Indore,51 to 200,Internet & Web Services,190
 Endeavour Software Technologies,3.6,Indore,51 to 200,Computer Hardware Development,72
-ITcompany,4.2,Indore,201 to 500,Computer Hardware Development,97
-Dash Technologies,4.6,Indore,501 to 1000,Information Technology Support Services,130
-Mad Street Den Systems,4.0,Indore,201 to 500,Enterprise Software & Network Solutions,98
-Gems Essence,4.2,Indore,1 to 50,Information Technology Support Services,13
-Tech Prescient,4.6,Indore,51 to 200,Information Technology Support Services,105
-WebMobril Technologies,4.1,Indore,201 to 500,Information Technology Support Services,61
-Eventbase,3.6,Indore,51 to 200,Computer Hardware Development,53
+Skillnet Solutions,4.3,Indore,201 to 500,Information Technology Support Services,142
+Aspect Ratio,4.6,Indore,1 to 50,Information Technology Support Services,51
+Zucol Group,3.5,Indore,501 to 1000,Software Development,69
+Eventbase,3.7,Indore,51 to 200,Computer Hardware Development,55
+Webiators,4.5,Indore,1 to 50,Information Technology Support Services,20
+Jitterbit,3.7,Indore,201 to 500,Enterprise Software & Network Solutions,88
 Yash Solutions,3.8,Indore,51 to 200,Information Technology Support Services,23
+Newtech,4.2,Indore,501 to 1000,Enterprise Software & Network Solutions,143
 WoodFlake Business Solutions and Retail,4.9,Indore,1 to 50,Information Technology Support Services,9
-MindCrew Technologies,4.4,Indore,1 to 50,Information Technology Support Services,21
-Relinns Technologies,4.6,Indore,51 to 200,Information Technology Support Services,92
+Percona,4.3,Indore,201 to 500,Enterprise Software & Network Solutions,113
+YES,4.2,Indore,51 to 200,Computer Hardware Development,907
+Swiggy,3.9,Indore,10000+,Internet & Web Services,2.3T
+Systango,4.3,Indore,201 to 500,Information Technology Support Services,189
+WM Universal,4.0,Indore,1001 to 5000,Computer Hardware Development,227
+Chegg,4.1,Indore,1001 to 5000,Internet & Web Services,3.1T
+Virtusa,3.8,Indore,10000+,Information Technology Support Services,8.6T
+GammaStack,4.0,Indore,51 to 200,Information Technology Support Services,164
+Zomato,3.9,Indore,1001 to 5000,Internet & Web Services,2.7T
+JustDial,3.8,Indore,10000+,Internet & Web Services,2T
+Unacademy,3.7,Indore,1001 to 5000,Internet & Web Services,2.2T
 Elegant MicroWeb,4.4,Indore,51 to 200,Computer Hardware Development,115
+Auriga IT,4.4,Indore,201 to 500,Information Technology Support Services,91
+test IO,4.3,Indore,1 to 50,Internet & Web Services,197
+Integra Micro Systems,3.6,Indore,201 to 500,Computer Hardware Development,120
 Web Development India,4.5,Indore,1 to 50,Information Technology Support Services,18
-Percona,4.4,Indore,201 to 500,Enterprise Software & Network Solutions,110
+Petpooja,4.3,Indore,501 to 1000,Enterprise Software & Network Solutions,147
 Groofl Intellect,4.0,Indore,1 to 50,Information Technology Support Services,20
 TekIt Solutions,4.7,Indore,1 to 50,Information Technology Support Services,14
-Jitterbit,3.6,Indore,201 to 500,Enterprise Software & Network Solutions,79
-Auriga IT,4.5,Indore,201 to 500,Information Technology Support Services,85
-Skillnet Solutions,4.3,Indore,201 to 500,Information Technology Support Services,137
-Newtech,4.2,Indore,501 to 1000,Enterprise Software & Network Solutions,127
-test IO,4.4,Indore,1 to 50,Internet & Web Services,183
-Dollop Infotech,4.7,Indore,1 to 50,Information Technology Support Services,16
-Integra Micro Systems,3.6,Indore,201 to 500,Computer Hardware Development,115
-Appin Technology Lab,3.5,Indore,1 to 50,Accounting & Tax,47
-SNS System,4.8,Indore,1 to 50,Information Technology Support Services,48
-SmartSoC Solutions,4.0,Indore,501 to 1000,Computer Hardware Development,109
+InfoCentroid Software Solutions,4.3,Indore,1 to 50,Computer Hardware Development,16
+Helioster,5.0,Indore,1 to 50,Internet & Web Services,7
+SmartSoC Solutions,3.8,Indore,501 to 1000,Computer Hardware Development,121
+ContentWriters,4.5,Indore,,Internet & Web Services,47
+Diyar United,4.1,Indore,501 to 1000,Enterprise Software & Network Solutions,140
+Crossworkers,3.8,Indore,51 to 200,Information Technology Support Services,115
 CitrusLeaf,4.4,Indore,1 to 50,Information Technology Support Services,24
-Lauren Information Technologies,4.5,Indore,501 to 1000,Information Technology Support Services,116
-iASYS,4.0,Indore,51 to 200,Enterprise Software & Network Solutions,84
-CrewScale,4.3,Indore,51 to 200,Internet & Web Services,109
-Helioster,5.0,Indore,1 to 50,Internet & Web Services,6
-ProcessMaker,4.1,Indore,51 to 200,Enterprise Software & Network Solutions,29
-Petpooja,4.3,Indore,501 to 1000,Enterprise Software & Network Solutions,116
-Affimintus,3.7,Indore,1 to 50,Information Technology Support Services,12
-ExpressTech Software Solutions,4.0,Indore,1 to 50,Information Technology Support Services,11
-Ayush Software,3.9,Indore,1 to 50,Information Technology Support Services,94
-Infotech (Pakistan),3.5,Indore,51 to 200,Information Technology Support Services,95
-ShopX,4.0,Indore,201 to 500,Internet & Web Services,99
-SNVA Ventures,4.6,Indore,501 to 1000,Software Development,122
-Clovity,4.7,Indore,201 to 500,Information Technology Support Services,101
-OptimHire,3.6,Indore,51 to 200,Information Technology Support Services,72
-Zaggle,3.8,Indore,51 to 200,Information Technology Support Services,117
-SkillGigs,4.2,Indore,201 to 500,Computer Hardware Development,74
-EncoreSky Technologies,4.9,Indore,1 to 50,Information Technology Support Services,13
-Mobulous Technologies,4.2,Indore,51 to 200,Information Technology Support Services,84
-ClickBank,4.2,Indore,51 to 200,Internet & Web Services,67
-RV Technologies,4.0,Indore,51 to 200,Information Technology Support Services,103
-Outline Systems India,4.5,Indore,201 to 500,Information Technology Support Services,112
-Yugasa Software Labs,4.4,Indore,51 to 200,Information Technology Support Services,71
-ClearTrail Technologies,3.5,Indore,51 to 200,Information Technology Support Services,262
-YES,4.2,Indore,51 to 200,Computer Hardware Development,854
-Hexaware Technologies,3.8,Indore,10000+,Information Technology Support Services,5T
-Swiggy,4.0,Indore,10000+,Internet & Web Services,2.2T
-WM Universal,3.9,Indore,1001 to 5000,Computer Hardware Development,225
-Systango,4.2,Indore,201 to 500,Information Technology Support Services,171
-GammaStack,4.0,Indore,51 to 200,Information Technology Support Services,154
-Chegg,4.1,Indore,1001 to 5000,Internet & Web Services,2.9T
-Virtusa,3.8,Indore,10000+,Information Technology Support Services,8T
-JustDial,3.9,Indore,10000+,Internet & Web Services,1.9T
-Proctur,4.3,Indore,1 to 50,Information Technology Support Services,73
-Nectar Infotel Solutions,3.8,Indore,51 to 200,Information Technology Support Services,51
-AJACKUS,4.8,Indore,51 to 200,Information Technology Support Services,74
-Corecard Software,3.5,Indore,501 to 1000,Information Technology Support Services,77
-InfoCentroid Software Solutions,4.1,Indore,1 to 50,Computer Hardware Development,16
+Lauren Information Technologies,4.5,Indore,501 to 1000,Information Technology Support Services,119
+EncoreSky Technologies,4.9,Indore,1 to 50,Information Technology Support Services,14
+Appin Technology Lab,3.5,Indore,1 to 50,Accounting & Tax,48
+Affimintus,3.8,Indore,1 to 50,Information Technology Support Services,14
+iASYS,3.8,Indore,51 to 200,Enterprise Software & Network Solutions,87
+CrewScale,4.2,Indore,51 to 200,Internet & Web Services,112
+SNS System,4.8,Indore,1 to 50,Information Technology Support Services,48
+Recruit CRM,4.5,Indore,51 to 200,Internet & Web Services,91
+Conative IT Solutions,5.0,Indore,1 to 50,Internet & Web Services,7
+SNVA Ventures,4.3,Indore,501 to 1000,Software Development,129
+ProcessMaker,4.1,Indore,51 to 200,Enterprise Software & Network Solutions,28
+Infotech (Pakistan),3.5,Indore,51 to 200,Information Technology Support Services,97
+ShopX,4.0,Indore,201 to 500,Internet & Web Services,102
+Zaggle,3.8,Indore,51 to 200,Information Technology Support Services,121
+Clovity,4.8,Indore,201 to 500,Information Technology Support Services,109
+Yugasa Software Labs,4.4,Indore,51 to 200,Information Technology Support Services,72
 Freshersworld.com,4.0,Indore,51 to 200,Internet & Web Services,49
 Verve System,4.4,Indore,51 to 200,Information Technology Support Services,65
-Kreeti Technologies,3.9,Indore,1 to 50,Computer Hardware Development,57
-Genuine Soft Technologies,4.1,Indore,1 to 50,Computer Hardware Development,9
-Conative IT Solutions,5.0,Indore,1 to 50,Internet & Web Services,7
-Ijona Technologies,4.5,Indore,51 to 200,Information Technology Support Services,43
-SmartSchool Education,3.8,Indore,201 to 500,Computer Hardware Development,93
-CompuServe,3.8,Indore,201 to 500,Internet & Web Services,59
-Gramophone (India),3.9,Indore,501 to 1000,Internet & Web Services,18
-Value Chain Solution,4.1,Indore,51 to 200,Information Technology Support Services,85
+CompuServe,3.8,Indore,201 to 500,Internet & Web Services,63
+SmartSchool Education,3.8,Indore,201 to 500,Computer Hardware Development,96
+Vertex Global Services,4.6,Indore,501 to 1000,Information Technology Support Services,152
 Web Design Solutions,4.3,Indore,1 to 50,Computer Hardware Development,35
-BlackNGreen,3.8,Indore,201 to 500,Internet & Web Services,72
-Vertex Global Services,4.7,Indore,501 to 1000,Information Technology Support Services,147
-Ideal IT,3.7,Indore,1 to 50,Information Technology Support Services,8
-Allsoft Solutions,3.6,Indore,1 to 50,Information Technology Support Services,56
-Kunal Infotech,4.3,Indore,1 to 50,Information Technology Support Services,33
-Prefme,3.6,Indore,1 to 50,Information Technology Support Services,7
-Ishan Technologies,4.4,Indore,1001 to 5000,Internet & Web Services,69
-InfoPeople Corporation,4.7,Indore,51 to 200,Information Technology Support Services,55
-Squadcast,4.9,Indore,51 to 200,Computer Hardware Development,39
-ICC,4.1,Indore,1 to 50,Computer Hardware Development,52
-Aspect Ratio,4.5,Indore,1 to 50,Information Technology Support Services,46
-ThinkTech Computers,3.6,Indore,1 to 50,Information Technology Support Services,49
-Integrated Wireless Soluions,3.6,Indore,1001 to 5000,Information Technology Support Services,65
-The First Years,4.2,Indore,201 to 500,Consumer Product Manufacturing,32
-Hi-Tech Informatics,4.1,Indore,201 to 500,Information Technology Support Services,40
-Blu Cocoon Digital,4.6,Indore,51 to 200,Information Technology Support Services,58
-Quazma Techno Solutions,4.4,Indore,1 to 50,Information Technology Support Services,14
-The Design Institute,4.6,Indore,1 to 50,Information Technology Support Services,8
-Intentwise,4.7,Indore,51 to 200,Internet & Web Services,53
-Kartik Infotech,4.1,Indore,1 to 50,Information Technology Support Services,51
-TechCoopers,4.1,Indore,1 to 50,Information Technology Support Services,9
-Avalon Solution,3.7,Indore,51 to 200,Computer Hardware Development,9
-Infobean,4.6,Indore,1 to 50,Information Technology Support Services,3
-Microlink Solution,3.6,Indore,201 to 500,Information Technology Support Services,51
-eZdia,4.2,Indore,51 to 200,Enterprise Software & Network Solutions,62
-IntelliaTech Solutions,4.2,Indore,1 to 50,Information Technology Support Services,8
-Comvision,4.7,Indore,51 to 200,Information Technology Support Services,82
+Genuine Soft Technologies,4.1,Indore,1 to 50,Computer Hardware Development,9
+Ijona Technologies,4.5,Indore,51 to 200,Information Technology Support Services,43
+Value Chain Solution,4.1,Indore,51 to 200,Information Technology Support Services,86
+Robotronix,4.0,Indore,1 to 50,Information Technology Support Services,14
+BlackNGreen,3.9,Indore,201 to 500,Internet & Web Services,74
+Clecotech International,3.8,Indore,51 to 200,Information Technology Support Services,17
+Systos Technology,3.7,Indore,1 to 50,Computer Hardware Development,13
+Ishan Technologies,4.4,Indore,1001 to 5000,Internet & Web Services,73
+Kunal Infotech,4.5,Indore,1 to 50,Information Technology Support Services,35
+ICC,4.2,Indore,1 to 50,Computer Hardware Development,56
+Avalon Solution,3.7,Indore,51 to 200,Computer Hardware Development,10
+InfoPeople Corporation,4.6,Indore,51 to 200,Information Technology Support Services,58
+SHAREit,3.5,Indore,501 to 1000,Information Technology Support Services,69
+Blu Cocoon Digital,4.5,Indore,51 to 200,Information Technology Support Services,65
+RISHI,4.2,Indore,201 to 500,Information Technology Support Services,44
 BootNext,4.8,Indore,51 to 200,Information Technology Support Services,10
-INDUS Technology,3.8,Indore,201 to 500,Information Technology Support Services,38
-Robotronix,3.9,Indore,1 to 50,Information Technology Support Services,11
-Clecotech International,3.8,Indore,51 to 200,Information Technology Support Services,14
-iGlobal Impact,4.5,Indore,51 to 200,Information Technology Support Services,70
-Developerprogram.com,3.8,Indore,1 to 50,Information Technology Support Services,19
+ByteCipher Private Limited,4.7,Indore,1 to 50,Information Technology Support Services,9
+Zenith Software,3.6,Indore,1 to 50,Information Technology Support Services,15
+Ultria,3.8,Indore,,Software Development,60
+Microlink Solution,3.6,Indore,201 to 500,Information Technology Support Services,63
+The First Years,4.2,Indore,201 to 500,Consumer Product Manufacturing,33
+ThinkTech Computers,3.6,Indore,1 to 50,Information Technology Support Services,50
+Imenso Software,4.7,Indore,51 to 200,Information Technology Support Services,29
+Coditation Systems,3.9,Indore,51 to 200,Information Technology Support Services,49
+Integrated Wireless Soluions,3.6,Indore,1001 to 5000,Information Technology Support Services,65
+Quazma Techno Solutions,4.4,Indore,1 to 50,Information Technology Support Services,15
+Hi-Tech Informatics,4.2,Indore,201 to 500,Information Technology Support Services,39
+Nibav,4.2,Indore,1 to 50,Computer Hardware Development,60
+The Design Institute,4.6,Indore,1 to 50,Information Technology Support Services,8
+Intentwise,4.8,Indore,51 to 200,Internet & Web Services,59
+PeopleGrove,4.8,Indore,1 to 50,Internet & Web Services,19
+Nayan,4.0,Indore,1 to 50,Information Technology Support Services,49
+Kaara Info Systems,4.3,Indore,51 to 200,Information Technology Support Services,53
+Kartik Infotech,4.1,Indore,1 to 50,Information Technology Support Services,52
+The Modern Data,4.8,Indore,51 to 200,Software Development,9
+INDUS Technology,4.1,Indore,201 to 500,Information Technology Support Services,41
+eZdia,4.4,Indore,51 to 200,Enterprise Software & Network Solutions,64
+Payara Services,4.1,Indore,1 to 50,Enterprise Software & Network Solutions,36
+Infobean,4.6,Indore,1 to 50,Information Technology Support Services,3
+Comvision,4.5,Indore,51 to 200,Information Technology Support Services,83
+Locad,3.6,Indore,51 to 200,Internet & Web Services,32
+CodeClause,3.7,Indore,1 to 50,Software Development,58
+BitCot,4.2,Indore,1 to 50,Information Technology Support Services,13
+IntelliaTech Solutions,4.3,Indore,1 to 50,Information Technology Support Services,9
+Genesis Technologies,4.4,Indore,51 to 200,Information Technology Support Services,97
+iGlobal Impact,4.4,Indore,51 to 200,Information Technology Support Services,71
+Pataa,3.8,Indore,1 to 50,Information Technology Support Services,6
+Developerprogram.com,3.5,Indore,1 to 50,Information Technology Support Services,20
 nLeague Services,3.8,Indore,1 to 50,Information Technology Support Services,9
-Payara Services,4.0,Indore,1 to 50,Enterprise Software & Network Solutions,33
 Teengineers WebApps,4.7,Indore,1 to 50,Software Development,4
-Locad,3.8,Indore,51 to 200,Internet & Web Services,29
-Nayan,4.2,Indore,1 to 50,Information Technology Support Services,37
+Ubertal,3.7,Indore,,Information Technology Support Services,18
+TecStub,4.4,Indore,51 to 200,Software Development,42
 eLEOPARD Design Studios,4.6,Indore,1 to 50,Information Technology Support Services,14
+Globant,4.3,Indore,10000+,Software Development,7.8T
+HotWax Systems,3.7,Indore,51 to 200,Enterprise Software & Network Solutions,127
+Intel Corporation,4.1,Indore,10000+,Computer Hardware Development,29.8T
+UST,4.0,Indore,10000+,Information Technology Support Services,7.8T
+Adobe,4.4,Indore,10000+,Computer Hardware Development,9.2T
+Honeywell,4.0,Indore,10000+,Computer Hardware Development,20.8T
+Conneqt Business Solutions,4.1,Indore,10000+,Information Technology Support Services,990
+IndiaMART,3.7,Indore,1001 to 5000,Internet & Web Services,2.2T
+Capgemini Engineering,3.7,Indore,10000+,Information Technology Support Services,12.4T
+Myntra,4.1,Indore,1001 to 5000,Internet & Web Services,1.5T
 Pi Technologies (India),4.9,Indore,1 to 50,Information Technology Support Services,13
 ERipples Infomatics,4.1,Indore,1 to 50,Information Technology Support Services,11
 ExaTip Technologies,4.6,Indore,51 to 200,Information Technology Support Services,9
-Ubertal,3.6,Indore,,Information Technology Support Services,17
-Pataa,4.2,Indore,1 to 50,Information Technology Support Services,5
-PeopleGrove,4.8,Indore,1 to 50,Internet & Web Services,19
-TecStub,4.6,Indore,51 to 200,Software Development,41
+Sigma Infosolutions,4.0,Indore,201 to 500,Computer Hardware Development,159
+Hiteshi Technologies,4.3,Indore,51 to 200,Information Technology Support Services,78
+Hellbent,4.9,Indore,1 to 50,Information Technology Support Services,37
+OT Solutions Tech,3.5,Indore,51 to 200,Information Technology Support Services,7
 Tech Marine Business,3.9,Indore,51 to 200,Architectural & Engineering Services,24
 Code Titans Software Labs,4.7,Indore,1 to 50,Information Technology Support Services,3
-The Modern Data,4.7,Indore,51 to 200,Software Development,7
-ByteCipher Private Limited,5.0,Indore,1 to 50,Information Technology Support Services,6
 PixelNX,4.2,Indore,1 to 50,Information Technology Support Services,7
-Hellbent,4.9,Indore,1 to 50,Information Technology Support Services,30
+Dwellfox,3.9,Indore,,Software Development,9
+ThinkNEXT Technologies,4.2,Indore,1 to 50,Computer Hardware Development,34
 Pushkal IT Solution,4.3,Indore,1 to 50,Information Technology Support Services,7
+Pixoatic Solutions,4.6,Indore,51 to 200,Software Development,18
+ZignEx,4.8,Indore,1 to 50,Software Development,5
+CodersBrain,4.5,Indore,201 to 500,Information Technology Support Services,36
 Orlando,4.0,Indore,1 to 50,Computer Hardware Development,10
+Myracle.io,4.7,Indore,1 to 50,Software Development,22
+Buzo Media Services,4.3,Indore,1 to 50,Information Technology Support Services,38
+SILVERGREY,4.7,Indore,1 to 50,Information Technology Support Services,18
 Zolute Internet Solutions,3.6,Indore,,Accounting & Tax,8
-Buzo Media Services,4.7,Indore,1 to 50,Information Technology Support Services,37
-CodersBrain,4.4,Indore,201 to 500,Information Technology Support Services,34
-TagX,5.0,Indore,1 to 50,Information Technology Support Services,5
+Nuance Infotech,4.9,Indore,1 to 50,Software Development,9
+Codezilla,4.5,Indore,1 to 50,Information Technology Support Services,27
+Tech Army,4.9,Indore,,Enterprise Software & Network Solutions,32
+Infoware (India),3.8,Indore,1 to 50,Computer Hardware Development,34
 Innovaeps,4.8,Indore,1 to 50,Information Technology Support Services,8
-OT Solutions Tech,4.2,Indore,51 to 200,Information Technology Support Services,5
-Myracle.io,4.7,Indore,1 to 50,Software Development,19
-Tech Army,4.8,Indore,,Enterprise Software & Network Solutions,30
-Webiators,4.4,Indore,1 to 50,Information Technology Support Services,10
-Infoware (India),4.1,Indore,1 to 50,Computer Hardware Development,31
-Mobility Empowered,4.0,Indore,1 to 50,Enterprise Software & Network Solutions,12
-Brain Above,4.6,Indore,1 to 50,Information Technology Support Services,12
-Pixoatic Solutions,4.6,Indore,51 to 200,Software Development,17
-Search Results Media,4.2,Indore,51 to 200,Internet & Web Services,17
 Kritin Digital Solutions,4.5,Indore,1 to 50,Information Technology Support Services,4
-Zauba Technologies & Data Services,3.9,Indore,1 to 50,Enterprise Software & Network Solutions,17
-SuperDNA 3D Lab,4.1,Indore,1 to 50,Information Technology Support Services,18
+Treeline Interactive,3.7,Indore,1 to 50,Computer Hardware Development,9
+SuperDNA 3D Lab,3.9,Indore,1 to 50,Information Technology Support Services,21
+Brain Above,4.6,Indore,1 to 50,Information Technology Support Services,12
+Maxsource Technologies,3.7,Indore,1 to 50,Information Technology Support Services,10
 Certainty Infotech,3.6,Indore,1 to 50,Information Technology Support Services,5
-BitCot,4.2,Indore,1 to 50,Information Technology Support Services,10
-Arna Softech,4.2,Indore,51 to 200,Enterprise Software & Network Solutions,9
+Mobility Empowered,4.0,Indore,1 to 50,Enterprise Software & Network Solutions,12
+Zauba Technologies & Data Services,3.9,Indore,1 to 50,Enterprise Software & Network Solutions,17
+Bluetick Consultants,4.2,Indore,1 to 50,Information Technology Support Services,20
+Search Results Media,4.2,Indore,51 to 200,Internet & Web Services,17
 PradeepIT,4.8,Indore,51 to 200,Information Technology Support Services,41
+Qualimatrix,4.8,Indore,51 to 200,Software Development,6
+Arna Softech,4.2,Indore,51 to 200,Enterprise Software & Network Solutions,9
 Software Testing Services,4.4,Indore,51 to 200,Computer Hardware Development,9
 Chronicle Innovations,4.3,Indore,51 to 200,Information Technology Support Services,3
+Byloapp,4.3,Indore,1 to 50,Information Technology Support Services,5
 Shrinkcom Software,4.5,Indore,1 to 50,Information Technology Support Services,2
 Mukesh Infoserve,4.2,Indore,201 to 500,Wholesale,21
+Web 2.0 Ranker,3.7,Indore,,Internet & Web Services,12
 Universal Business Solutions,4.7,Indore,51 to 200,Information Technology Support Services,9
-Sigma Infosolutions,4.0,Indore,201 to 500,Computer Hardware Development,151
+Gyizer Systems,4.9,Indore,1 to 50,Software Development,6
 TCGIvega,3.7,Indore,501 to 1000,Information Technology Support Services,9
+BISP Solutions,4.5,Indore,51 to 200,Information Technology Support Services,20
 Alcyone (IN),4.4,Indore,51 to 200,Software Development,5
-Maxsource Technologies,4.4,Indore,1 to 50,Information Technology Support Services,8
-Zomato,3.9,Indore,1001 to 5000,Internet & Web Services,2.6T
-Intel Corporation,4.2,Indore,10000+,Computer Hardware Development,28.5T
-UST,3.9,Indore,10000+,Information Technology Support Services,7.2T
-Unacademy,3.7,Indore,1001 to 5000,Internet & Web Services,2.1T
-Globant,4.3,Indore,10000+,Software Development,7.2T
-Adobe,4.4,Indore,10000+,Computer Hardware Development,8.8T
-Capgemini Engineering,3.7,Indore,10000+,Information Technology Support Services,11.7T
-HotWax Systems,3.9,Indore,51 to 200,Enterprise Software & Network Solutions,116
-udaan.com,3.6,Indore,1001 to 5000,Internet & Web Services,1.1T
-Honeywell,4.0,Indore,10000+,Computer Hardware Development,19.8T
+Longswitch Software Solutions,4.8,Indore,1 to 50,Information Technology Support Services,25
+Oepp Innovations,4.4,Indore,1 to 50,Information Technology Support Services,6
+SoftGetix,4.7,Indore,1 to 50,Information Technology Support Services,8
 Process Master Softwares,3.8,Indore,1 to 50,Computer Hardware Development,6
+Task Source (India),4.7,Indore,51 to 200,Software Development,3
+Just Mind Work,4.0,Indore,1 to 50,Information Technology Support Services,5
 Picon Infotech,4.5,Indore,1 to 50,Computer Hardware Development,6
-Longswitch Software Solutions,4.9,Indore,1 to 50,Information Technology Support Services,22
-Advantal Technologies,3.7,Indore,51 to 200,Information Technology Support Services,43
-Hiteshi Technologies,4.2,Indore,51 to 200,Information Technology Support Services,78
-Codezilla,4.5,Indore,1 to 50,Information Technology Support Services,26
+Akibia,4.5,Indore,201 to 500,Information Technology Support Services,7
+Xugar,4.8,Indore,1 to 50,Information Technology Support Services,14
+Think AI Consulting,4.8,Indore,,Software Development,5
+Atyantik Technologies,5.0,Indore,1 to 50,Information Technology Support Services,11
 Greycaps India,3.5,Indore,1 to 50,Computer Hardware Development,13
 DOES Solutions,3.9,Indore,1 to 50,Information Technology Support Services,4
 Qualki,4.9,Indore,1 to 50,Information Technology Support Services,14
-SoftGetix,4.7,Indore,1 to 50,Information Technology Support Services,8
-Akibia,4.5,Indore,201 to 500,Information Technology Support Services,7
-Atyantik Technologies,5.0,Indore,1 to 50,Information Technology Support Services,11
-Xugar,4.8,Indore,1 to 50,Information Technology Support Services,13
 Third Essentials,4.5,Indore,51 to 200,Information Technology Support Services,2
-Just Mind Work,3.9,Indore,1 to 50,Information Technology Support Services,5
-Cloudify (Denmark),4.7,Indore,1 to 50,Enterprise Software & Network Solutions,9
-BISP Solutions,4.4,Indore,51 to 200,Information Technology Support Services,16
-ZignEx,4.8,Indore,1 to 50,Software Development,5
-Think AI Consulting,4.8,Indore,,Software Development,5
-Byloapp,4.7,Indore,1 to 50,Information Technology Support Services,4
-Genesis Technologies,4.4,Indore,51 to 200,Information Technology Support Services,94
+Nebula Automotive,4.8,Indore,1 to 50,Enterprise Software & Network Solutions,17
+Cloudify (Denmark),4.5,Indore,1 to 50,Enterprise Software & Network Solutions,10
+Disecto,4.8,Indore,1 to 50,Enterprise Software & Network Solutions,10
 Sapnagroup,3.8,Indore,1 to 50,Internet & Web Services,5
-Nebula Automotive,4.8,Indore,1 to 50,Enterprise Software & Network Solutions,15
+Contractually,3.9,Indore,1 to 50,Computer Hardware Development,8
+Arbutus Infotech,3.6,Indore,1 to 50,Information Technology Support Services,3
 BlueWebSpark,5.0,Indore,1 to 50,Information Technology Support Services,5
-Oepp Innovations,4.2,Indore,1 to 50,Information Technology Support Services,5
 i-Softzone,4.1,Indore,51 to 200,Computer Hardware Development,6
-BonaSys IT Solutions,3.8,Indore,1 to 50,Information Technology Support Services,4
 SoftOps Technologies,5.0,Indore,1 to 50,Software Development,3
 Aryush Infotech,4.1,Indore,51 to 200,Information Technology Support Services,5
-Codingkart,4.7,Indore,1 to 50,Enterprise Software & Network Solutions,3
-Task Source (India),4.5,Indore,51 to 200,Software Development,2
 iDice,4.7,Indore,1 to 50,Information Technology Support Services,4
 Gamma Networks,5.0,Indore,1 to 50,Enterprise Software & Network Solutions,5
-Disecto,4.8,Indore,1 to 50,Enterprise Software & Network Solutions,8
-Qualimatrix,5.0,Indore,51 to 200,Software Development,3
-Web 2.0 Ranker,3.7,Indore,,Internet & Web Services,10
 Aaditya Technologies,3.5,Indore,1 to 50,Information Technology Support Services,8
 Cyzap,4.6,Indore,,Information Technology Support Services,5
 Bingage,4.8,Indore,1 to 50,Computer Hardware Development,6
@@ -602,98 +613,49 @@ Onports,4.7,Indore,1 to 50,Information Technology Support Services,3
 SNV InfoTech,4.0,Indore,1 to 50,Internet & Web Services,7
 Kalmstrom Enterprises,3.9,Indore,1 to 50,Computer Hardware Development,7
 DigiPrima,4.6,Indore,1 to 50,Enterprise Software & Network Solutions,5
-Gravityloft Solutions,4.6,Indore,51 to 200,Software Development,8
 AppBroda Tech,4.0,Indore,1 to 50,Internet & Web Services,2
+Dinclix GroundWorks,5.0,Indore,51 to 200,Information Technology Support Services,5
+Gravityloft Solutions,4.6,Indore,51 to 200,Software Development,8
+Codingkart,4.7,Indore,1 to 50,Enterprise Software & Network Solutions,3
 CViewSurvey,5.0,Indore,1 to 50,Information Technology Support Services,3
-Gyizer Systems,4.8,Indore,1 to 50,Software Development,4
+CosmostakeR,4.5,Indore,1 to 50,Software Development,4
 NcompassTrac,5.0,Indore,1 to 50,Information Technology Support Services,5
+REWAA,3.6,Indore,1 to 50,Information Technology Support Services,2
 FODUU,3.5,Indore,1 to 50,Information Technology Support Services,6
-Arbutus Infotech,3.6,Indore,1 to 50,Information Technology Support Services,3
+Samyotech,4.8,Indore,1 to 50,Software Development,4
+Vsple Technologies,5.0,Indore,1 to 50,Software Development,2
 Astute Systems Technology,3.8,Indore,51 to 200,Computer Hardware Development,4
 nTier IT Solutions,3.8,Indore,1 to 50,Information Technology Support Services,7
 SSystems Solutions,3.9,Indore,1 to 50,Information Technology Support Services,5
 Candid Technologies,4.5,Indore,1 to 50,Information Technology Support Services,6
+ByteME Technologies,5.0,Indore,51 to 200,Software Development,3
 PI Technologies,4.4,Indore,1 to 50,Computer Hardware Development,3
-REWAA,3.6,Indore,1 to 50,Information Technology Support Services,2
-Imenso Software,3.7,Indore,51 to 200,Information Technology Support Services,4
 Mystic Mantra,4.6,Indore,1 to 50,Information Technology Support Services,2
+REDVision Technologies,4.4,Indore,1 to 50,Computer Hardware Development,21
 Media Path,3.5,Indore,1 to 50,Computer Hardware Development,3
-Dinclix GroundWorks,5.0,Indore,51 to 200,Information Technology Support Services,4
+Kylient Software Solutions,5.0,Indore,1 to 50,Information Technology Support Services,3
 Ziasy Consulting,4.1,Indore,1 to 50,Information Technology Support Services,5
 Yash Computech Solution,3.7,Indore,1 to 50,Information Technology Support Services,6
 Yespay International,3.9,Indore,51 to 200,Information Technology Support Services,4
 IDealogic Software Solution,3.6,Indore,1 to 50,Information Technology Support Services,2
-Strumsoft,4.4,Indore,1 to 50,Computer Hardware Development,6
-Vsple Technologies,5.0,Indore,1 to 50,Software Development,2
-Gatesix,4.0,Indore,,Accounting & Tax,2
-CosmostakeR,4.7,Indore,,Information Technology Support Services,3
-Bezoar,3.5,Indore,1 to 50,Enterprise Software & Network Solutions,4
-App Sphere,4.7,Indore,1 to 50,Information Technology Support Services,4
-ADitude Media,4.5,Indore,1 to 50,Computer Hardware Development,3
-Infinity Genesis Techso,5.0,Indore,1 to 50,Software Development,4
-Procure Consultancy,4.0,Indore,1 to 50,Enterprise Software & Network Solutions,1
-CloudFiles,5.0,Indore,1 to 50,Enterprise Software & Network Solutions,4
-FishNet,4.2,Indore,1001 to 5000,Internet & Web Services,5
-Prodigitaly Technologies,5.0,Indore,1 to 50,Information Technology Support Services,6
-ByteME Technologies,5.0,Indore,51 to 200,Software Development,3
-Techite Consulting Services,4.6,Indore,1 to 50,Information Technology Support Services,3
-Big Aims Solutions,4.1,Indore,1 to 50,Computer Hardware Development,2
-Cheshta Infotech,5.0,Indore,1 to 50,Information Technology Support Services,4
-Frogiez,5.0,Indore,1 to 50,Information Technology Support Services,3
-SystemXo,5.0,Indore,1 to 50,Information Technology Support Services,1
-Digiclay Infotech,5.0,Indore,1 to 50,Computer Hardware Development,2
-RackBank Datacenters,4.7,Indore,1 to 50,Information Technology Support Services,10
-Ninja Coder,5.0,Indore,1 to 50,Information Technology Support Services,3
-Ultimate Infosoft,4.4,Indore,1 to 50,Information Technology Support Services,2
-Alpha Infonet,5.0,Indore,1 to 50,Information Technology Support Services,2
-Frolsket,4.4,Indore,1 to 50,Information Technology Support Services,2
-Tech Zenith,3.6,Indore,1 to 50,Information Technology Support Services,2
-SmartAxiom ,4.0,Indore,1 to 50,Software Development,1
-SmartAxiom ,4.0,Indore,1 to 50,Software Development,1
 Techinfini,4.2,Indore,51 to 200,Information Technology Support Services,23
-i-engage,5.0,Indore,1 to 50,Information Technology Support Services,1
-HBWEBSOL,5.0,Indore,1 to 50,Information Technology Support Services,2
-REDVision Technologies,4.4,Indore,1 to 50,Computer Hardware Development,20
-Bynebits Infotech,5.0,Indore,1 to 50,Information Technology Support Services,1
-TechStars Group,5.0,Indore,,Information Technology Support Services,1
-Sapphire Infocom Pvt Ltd,4.2,Indore,1 to 50,Information Technology Support Services,24
-IT,5.0,Indore,51 to 200,Information Technology Support Services,1
-Hike Consultancy,5.0,Indore,1 to 50,Information Technology Support Services,2
-Myntra,4.1,Indore,1001 to 5000,Internet & Web Services,1.4T
-Chapter247,4.6,Indore,1 to 50,Information Technology Support Services,66
-EngineerBabu,4.0,Indore,51 to 200,Information Technology Support Services,210
-IndiaMART,3.8,Indore,1001 to 5000,Internet & Web Services,2.1T
-SAP,4.4,Indore,10000+,Enterprise Software & Network Solutions,27.9T
-Iksula,4.2,Indore,501 to 1000,Internet & Web Services,320
-Conneqt Business Solutions,3.4,Indore,10000+,Information Technology Support Services,823
-Vertisystem,3.9,Indore,51 to 200,Information Technology Support Services,134
-Robert Bosch,4.2,Indore,10000+,Computer Hardware Development,14.9T
-NCS,3.8,Indore,10000+,Information Technology Support Services,3T
-Hexalitics Technology,5.0,Indore,51 to 200,Information Technology Support Services,1
-PixHive,5.0,Indore,1 to 50,Information Technology Support Services,2
-Code Automations,5.0,Indore,1 to 50,Computer Hardware Development,1
-iParadise,4.0,Indore,1 to 50,Computer Hardware Development,1
-Corusview,5.0,Indore,1 to 50,Information Technology Support Services,1
-Zoozoo Solutions,5.0,Indore,1 to 50,Information Technology Support Services,1
-ScalingWeb,4.0,Indore,1 to 50,Internet & Web Services,2
-Webricots,5.0,Indore,1 to 50,Information Technology Support Services,1
-Coforge,3.7,Indore,10000+,Information Technology Support Services,5.7T
-Serosoft,4.1,Indore,201 to 500,Software Development,112
-Pepcus,4.9,Indore,51 to 200,Information Technology Support Services,70
-Intellicus Technologies,4.7,Indore,201 to 500,Computer Hardware Development,165
-Tudip Technologies,3.8,Indore,201 to 500,Information Technology Support Services,358
-BMC Software,4.1,Indore,5001 to 10000,Enterprise Software & Network Solutions,2.6T
-Meta,3.9,Indore,10000+,Internet & Web Services,15.1T
-EPAM Systems,4.2,Indore,10000+,Information Technology Support Services,8.1T
-Nielsen,3.8,Indore,10000+,Enterprise Software & Network Solutions,8.6T
-Bitwise,4.2,Indore,1001 to 5000,Information Technology Support Services,961
-CARS24.com,4.2,Indore,1001 to 5000,Internet & Web Services,1.1T
-Siya Tech Ventures,4.0,Indore,51 to 200,Information Technology Support Services,63
-MakeMyTrip,4.2,Indore,1001 to 5000,Internet & Web Services,1.6T
-Reliance Communications,3.4,Indore,10000+,Telecommunications Services,998
-eClinicalWorks,4.0,Indore,1001 to 5000,Computer Hardware Development,1.5T
-Atos,3.7,Indore,10000+,Information Technology Support Services,11.9T
-MathWorks,4.5,Indore,5001 to 10000,Software Development,2.3T
-NeoSOFT,4.1,Indore,1001 to 5000,Information Technology Support Services,1.2T
-IGATE,4.0,Indore,10000+,Information Technology Support Services,2.8T
-Sumeru,3.9,Indore,201 to 500,Information Technology Support Services,208
+CARS24.com,4.1,Indore,1001 to 5000,Internet & Web Services,1.2T
+Robert Bosch,4.3,Indore,10000+,Computer Hardware Development,15.6T
+NeoSOFT,4.2,Indore,1001 to 5000,Information Technology Support Services,1.4T
+Coforge,3.6,Indore,10000+,Information Technology Support Services,5.9T
+Pepcus,4.9,Indore,51 to 200,Information Technology Support Services,73
+Tudip Technologies,3.5,Indore,201 to 500,Information Technology Support Services,376
+Webgility,3.5,Indore,51 to 200,Software Development,121
+Intellicus Technologies,4.6,Indore,201 to 500,Computer Hardware Development,165
+Siya Tech Ventures,4.2,Indore,51 to 200,Information Technology Support Services,72
+EPAM Systems,4.2,Indore,10000+,Information Technology Support Services,8.9T
+LinkedIn,4.3,Indore,10000+,Internet & Web Services,6.7T
+HCL Infosystems,4.2,Indore,5001 to 10000,Computer Hardware Development,1.5T
+Nielsen,3.7,Indore,10000+,Enterprise Software & Network Solutions,8.8T
+Bitwise,4.1,Indore,1001 to 5000,Information Technology Support Services,1T
+Reliance Communications,3.3,Indore,10000+,Telecommunications Services,1T
+Appen,3.7,Indore,1001 to 5000,Information Technology Support Services,5.2T
+MakeMyTrip,4.1,Indore,1001 to 5000,Internet & Web Services,1.7T
+Galaxy Weblinks,3.9,Indore,201 to 500,Information Technology Support Services,103
+Atos,3.7,Indore,10000+,Information Technology Support Services,12.5T
+Sumeru,3.9,Indore,201 to 500,Information Technology Support Services,211

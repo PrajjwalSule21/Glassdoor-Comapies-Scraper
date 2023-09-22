@@ -7,22 +7,40 @@ This is a Python web scraping project that allows you to extract information abo
 Before running the project, make sure you have the following installed:
 
 -	 Python (version 3.6 or higher)
+-    Create and update vitual environment
 -	`requests` library
 -	`BeautifulSoup` library
 -	`pandas` library
 
+
+# Create Virtual Environment
+
+- Windows
+`python -m venv .venv`
+
+- Linux
+`python3 -m venv .venv`
+
+# Activate that Environment
+
+- Windows
+`source .venv/Scripts/activate`
+
+- Linux
+`source .venv/bin/activate`
+
 # Installation
 1.	Clone this repository to your local machine or download the ZIP file.
 2.	Install the required libraries by running the following command:
-`pip install requests beautifulsoup4 pandas` 
+`pip install -r requirements.txt` 
 
 # Usage
-1.	Open the glassdoor_companies_scraper.py file.
-2.	Modify the min_page_no and max_page_no variables according to the range of pages you want to scrape. By default, the script scrapes from page 1 to page 70.
+1.	Open the app.py file.
+2.	Modify the `min_page_no` and `max_page_no` variables according to the range of pages you want to scrape. By default, the script scrapes from page 1 to page 70.
 3.	Run the script using the following command:
-`python glassdoor_companies_scraper.py`
+`python app.py`
 4.	The script will scrape the company information from Glassdoor and save each page's data as a separate CSV file in the Companies-csv-files directory.
-5.	After scraping all the pages, the script will merge all the CSV files into a single file named CompaniesFinal.csv.
+5.	After scraping all the pages, the script will merge all the CSV files into a single file named `CompaniesFinal.csv`.
 
 # Credits
 This project was developed by Prajjwal Sule.
